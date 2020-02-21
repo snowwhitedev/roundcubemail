@@ -1,0 +1,91 @@
+<roundcube:include file="includes/layout.html" />
+
+<h1 class="voice"><roundcube:object name="productname" /> <roundcube:label name="login" /></h1>
+
+<div id="layout-content" class="selected no-navbar desktop_plat" role="main">
+	<div class="row topnav" style="background: #333; height: 44px; ">
+		<div class="topnav-right">
+			<a href="#" target="_blank" id="help" style="display: flex; align-items: flex-end; padding: 0; font-size: 1rem;"> <span>Help</span> </a>
+			<a href="#">
+				<select name="language" id="language" style="background: #333; color: #FFF; border: #333;">
+					<option value="en">English(United State)</option>
+				</select>
+			</a>
+		</div>
+	</div>
+	<div class="row" style="margin: 0">
+		<div class="col-md-12" style="height: 97vh;	padding: 0;">
+			<div class="col" style="float:left; padding:0; height: 100%; width: 60% !important; display: flex; justify-content: center; align-items: center; flex-direction: column">
+				<div class="row">
+					<roundcube:object name="logo" src="/images/logo.png" data-src-small="0" id="logo" alt="Logo" />
+				</div>
+				<div class="row logo_title">Entrusted Mail Secure Portal</div>
+
+			</div>
+			<div class="col" style="background-color: #E5E5E5; height: 96vh; float: left; width: 20%; box-shadow: 0px 0px 2px 0px #444;">
+				<div class="row">
+					<roundcube:form id="login-form" name="login-form" method="post" class="propform">
+					<roundcube:object name="loginform" form="login-form" size="40" submit=true />
+					<i class="icon eye" id="password_toggle"></i>
+					</form>
+				</div>
+				<div class="row footer_div">
+					<p>@2020<br>All right reserve</p>
+				</div>
+
+			</div>
+			<div class="col"></div>
+		</div>
+	</div>
+</div>
+
+<div id="layout-content" class="selected no-navbar mobile_plat" role="main">
+	<div class="row topnav" style="background: #333; height: 44px; ">
+		<div class="topnav-right">
+			<a href="#" class="help_item" target="_blank" id="help"> <span>Help</span> </a>
+			<a href="#" class="lang_item">
+				<select name="language" id="language" style="background: #333; color: #FFF; border: #333;">
+					<option value="en">English(United State)</option>
+				</select>
+			</a>
+		</div>
+	</div>
+	<div class="row" style="margin: 0; height: calc(100% - 44px);">
+		<div class="col-md-12" style="padding: 0;">
+			<div class="col" style="float:left; padding:0; height: 100%; width: 100% !important; display: flex; justify-content: center; align-items: center; flex-direction: column">
+				<div class="row mobile_form">
+					<roundcube:object name="logo" src="/images/logo.png" data-src-small="0" id="logo" alt="Logo" />
+					<div class="row logo_title">Entrusted Mail Secure Portal</div>
+					<roundcube:form id="login-form" name="login-form" method="post" class="propform">
+					<roundcube:object name="loginform" form="login-form" size="40" submit=true />
+					<!-- <i class="icon eye" id="password_toggle"></i> -->
+					</form>
+					<div class="row footer_div">
+						<p>@2020<br>All right reserve</p>
+					</div>
+				</div>
+
+			</div>
+			<div class="col"></div>
+		</div>
+		<!-- <div class="col-md-12" style="background-color: #E5E5E5; height: 3vh;">
+			<div class="col-md-9" style="float:left; text-align:left;">
+				<a href="#" target="_blank" style="text-decoration:underline;">Powered by Encrypt Titan</a>
+			</div>
+			<div class="col-md-3" style="float:left;">
+				<a href="#" target="_blank" style="text-decoration:underline;">About this secure portal</a>
+			</div>		
+		</div> -->
+	</div>
+</div>
+
+<div id="dialog" title="Dialog Title" style="display: none;">
+	<p>Privacy is important. To be transparent about how Secure Email operates, our Privacy Notice has been updated with details of how we use cookies to save user preferences. No sensitive information is stored in these cookies. Full details can be found in our Privacy Notice.</p>
+
+	<p>To be in line with the GDPR and other Privacy requirements, we require your consent to store these cookies on your computer. If you do not agree, please contact the sender of the message to arrange alternate delivery.</p>
+</div>
+<noscript>
+	<p class="noscriptwarning"><roundcube:label name="noscriptwarning" /></p>
+</noscript>
+
+<roundcube:include file="includes/footer.html" />

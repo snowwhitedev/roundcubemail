@@ -1,0 +1,3014 @@
+[19-Dec-2019 17:40:58 -0500]: <2qmv865i> Array
+(
+    [message] => Mail_mime Object
+        (
+            [txtbody:protected] => Это уведомление о прочтении вашего сообщения
+
+	Кому: newacc@healthycareservice.com
+	Тема: Re: one more message
+	Дата: 2019-12-20 00:34
+
+Это уведомление означает только, что сообщение было открыто получателем, и
+не гарантирует того, что оно было прочитано и (или) понято.
+            [htmlbody:protected] => 
+            [calbody:protected] => 
+            [html_images:protected] => Array
+                (
+                )
+
+            [parts:protected] => Array
+                (
+                    [0] => Array
+                        (
+                            [body] => Final-Recipient: rfc822; newacc@healthycareservice.com
+Original-Message-ID: <3316279007b2367a1e14ec407ee838d7@healthycareservice.com>
+Disposition: manual-action/MDN-sent-manually; displayed
+Original-Recipient: newacc@healthycareservice.com
+Reporting-UA: Roundcube Webmail/1.4.1
+
+                            [body_file] => 
+                            [name] => MDNPart2.txt
+                            [c_type] => message/disposition-notification
+                            [charset] => 
+                            [encoding] => 7bit
+                            [language] => 
+                            [location] => 
+                            [disposition] => inline
+                            [description] => 
+                            [add_headers] => Array
+                                (
+                                )
+
+                            [name_encoding] => 
+                            [filename_encoding] => 
+                            [headers_charset] => 
+                        )
+
+                )
+
+            [headers:protected] => Array
+                (
+                    [MIME-Version] => 1.0
+                    [Date] => Fri, 20 Dec 2019 00:40:58 +0200
+                    [From] => newacc@healthycareservice.com
+                    [To] => test1@healthycareservice.com
+                    [Subject] => Уведомление о прочтении: Re: one more message
+                    [Message-ID] => <bfd4c7d5e573f386dc8d075d172f9233@healthycareservice.com>
+                    [X-Sender] => newacc@healthycareservice.com
+                    [References] => <f4e2a0ada86abe7499ad873d4333b6b6@healthycareservice.com> <ec7415483452cace566e510a0d3ca6e2@healthycareservice.com> <7dcc9b79ee2f9fc65fa649aba8dad96e@healthycareservice.com> <fb5f46e53cf32505b70411459dde80e8@healthycareservice.com> <a8bdca45c67f5d3e9a1e691dc8a49021@healthycareservice.com> <f88b730b9180534709de3d6c92c20655@healthycareservice.com> <3316279007b2367a1e14ec407ee838d7@healthycareservice.com>
+                    [In-Reply-To] => <3316279007b2367a1e14ec407ee838d7@healthycareservice.com>
+                    [User-Agent] => Roundcube Webmail/1.4.1
+                )
+
+            [build_params:protected] => Array
+                (
+                    [head_encoding] => quoted-printable
+                    [text_encoding] => quoted-printable
+                    [html_encoding] => quoted-printable
+                    [calendar_encoding] => quoted-printable
+                    [html_charset] => UTF-8
+                    [text_charset] => UTF-8
+                    [calendar_charset] => UTF-8
+                    [head_charset] => UTF-8
+                    [eol] => 
+
+                    [delay_file_io] => 
+                    [calendar_method] => request
+                    [preamble] => 
+                    [boundary] => =_7e6cf1b1b1c715b18f470a06c2431e75
+                    [ctype] => multipart/report;
+ report-type=disposition-notification;
+ boundary="=_7e6cf1b1b1c715b18f470a06c2431e75"
+                )
+
+        )
+
+    [from] => newacc@healthycareservice.com
+    [mailto] => test1@healthycareservice.com
+    [options] => Array
+        (
+            [mdn_use_from] => 
+        )
+
+    [abort] => 
+)
+
+[19-Dec-2019 17:41:06 -0500]: <2qmv865i> Array
+(
+    [message] => Mail_mime Object
+        (
+            [txtbody:protected] => test1@healthycareservice.com писал 2019-12-20 00:34:
+
+> On 2019-12-19 23:28, newacc@healthycareservice.com wrote: 
+> 
+> test1@healthycareservice.com писал 2019-12-19 19:58: 
+> 
+> On 2019-12-19 19:54, newacc@healthycareservice.com wrote: 
+> 
+> test1@healthycareservice.com писал 2019-12-19 17:56: 
+> 
+> On 2019-12-19 17:29, newacc@healthycareservice.com wrote: 
+> 
+> test1@healthycareservice.com писал 2019-12-19 17:28: 
+> 
+> testing... 
+> 
+> Got it!
+
+Fine! 
+
+Yeah 
+
+Ok 
+
+Great
+            [htmlbody:protected] => <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /></head><body style='font-size: 10pt; font-family: Verdana,Geneva,sans-serif'>
+<p id="reply-intro">test1@healthycareservice.com писал 2019-12-20 00:34:</p>
+<blockquote type="cite" style="padding: 0 0.4em; border-left: #1010ff 2px solid; margin: 0">
+<div id="replybody1">
+<div style="font-size: 10pt; font-family: Verdana,Geneva,sans-serif;">
+<p id="v1reply-intro">On 2019-12-19 23:28, newacc@healthycareservice.com wrote:</p>
+<blockquote style="padding: 0 0.4em; border-left: #1010ff 2px solid; margin: 0;">
+<div id="v1replybody1">
+<div style="font-size: 10pt; font-family: Verdana,Geneva,sans-serif;">
+<p id="v1v1reply-intro">test1@healthycareservice.com писал 2019-12-19 19:58:</p>
+<blockquote style="padding: 0 0.4em; border-left: #1010ff 2px solid; margin: 0;">
+<div id="v1v1replybody1">
+<div style="font-size: 10pt; font-family: Verdana,Geneva,sans-serif;">
+<p id="v1v1v1reply-intro">On 2019-12-19 19:54, newacc@healthycareservice.com wrote:</p>
+<blockquote style="padding: 0 0.4em; border-left: #1010ff 2px solid; margin: 0;">
+<div id="v1v1v1replybody1">
+<div style="font-size: 10pt; font-family: Verdana,Geneva,sans-serif;">
+<p id="v1v1v1v1reply-intro">test1@healthycareservice.com писал 2019-12-19 17:56:</p>
+<blockquote style="padding: 0 0.4em; border-left: #1010ff 2px solid; margin: 0;">
+<div id="v1v1v1v1replybody1">
+<div style="font-size: 10pt; font-family: Verdana,Geneva,sans-serif;">
+<p id="v1v1v1v1v1reply-intro">On 2019-12-19 17:29, newacc@healthycareservice.com wrote:</p>
+<blockquote style="padding: 0 0.4em; border-left: #1010ff 2px solid; margin: 0;">
+<div id="v1v1v1v1v1replybody1">
+<div style="font-size: 10pt; font-family: Verdana,Geneva,sans-serif;">
+<p id="v1v1v1v1v1v1reply-intro">test1@healthycareservice.com писал 2019-12-19 17:28:</p>
+<blockquote style="padding: 0 0.4em; border-left: #1010ff 2px solid; margin: 0;">
+<div id="v1v1v1v1v1v1replybody1">
+<div style="font-size: 10pt; font-family: Verdana,Geneva,sans-serif;">
+<p>testing...</p>
+</div>
+</div>
+</blockquote>
+<p>Got it!</p>
+</div>
+</div>
+</blockquote>
+<p>Fine!</p>
+</div>
+</div>
+</blockquote>
+<p>Yeah</p>
+</div>
+</div>
+</blockquote>
+<p>Ok</p>
+</div>
+</div>
+</blockquote>
+<p>Great</p>
+</div>
+</div>
+</blockquote>
+<p><br /></p>
+</div>
+</div>
+</blockquote>
+<p><br /></p>
+
+</body></html>
+
+            [calbody:protected] => 
+            [html_images:protected] => Array
+                (
+                )
+
+            [parts:protected] => Array
+                (
+                )
+
+            [headers:protected] => Array
+                (
+                    [MIME-Version] => 1.0
+                    [Content-Type] => multipart/alternative;
+ boundary="=_f4b370c5459009bef649b060d997a470"
+                    [Date] => Fri, 20 Dec 2019 00:41:06 +0200
+                    [From] => newacc@healthycareservice.com
+                    [To] => test1@healthycareservice.com
+                    [Subject] => Re: one more message
+                    [In-Reply-To] => <3316279007b2367a1e14ec407ee838d7@healthycareservice.com>
+                    [References] => <f4e2a0ada86abe7499ad873d4333b6b6@healthycareservice.com> <ec7415483452cace566e510a0d3ca6e2@healthycareservice.com> <7dcc9b79ee2f9fc65fa649aba8dad96e@healthycareservice.com> <fb5f46e53cf32505b70411459dde80e8@healthycareservice.com> <a8bdca45c67f5d3e9a1e691dc8a49021@healthycareservice.com> <f88b730b9180534709de3d6c92c20655@healthycareservice.com> <3316279007b2367a1e14ec407ee838d7@healthycareservice.com>
+                    [User-Agent] => Roundcube Webmail/1.4.1
+                    [Message-ID] => <832e61bed9572b968cb6d46ec67f04dc@healthycareservice.com>
+                    [X-Sender] => newacc@healthycareservice.com
+                )
+
+            [build_params:protected] => Array
+                (
+                    [head_encoding] => quoted-printable
+                    [text_encoding] => 8bit
+                    [html_encoding] => quoted-printable
+                    [calendar_encoding] => quoted-printable
+                    [html_charset] => UTF-8
+                    [text_charset] => UTF-8;
+ format=flowed
+                    [calendar_charset] => UTF-8
+                    [head_charset] => UTF-8
+                    [eol] => 
+
+                    [delay_file_io] => 
+                    [calendar_method] => request
+                    [preamble] => 
+                    [boundary] => =_f4b370c5459009bef649b060d997a470
+                )
+
+        )
+
+    [from] => newacc@healthycareservice.com
+    [mailto] => test1@healthycareservice.com
+    [options] => Array
+        (
+            [dsn] => 
+        )
+
+    [abort] => 
+)
+
+[20-Dec-2019 03:51:14 -0500]: <bu0smggq> Array
+(
+    [message] => Mail_mime Object
+        (
+            [txtbody:protected] => text
+            [htmlbody:protected] => <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /></head><body style='font-size: 10pt; font-family: Verdana,Geneva,sans-serif'>
+<p>text</p>
+
+</body></html>
+
+            [calbody:protected] => 
+            [html_images:protected] => Array
+                (
+                )
+
+            [parts:protected] => Array
+                (
+                )
+
+            [headers:protected] => Array
+                (
+                    [MIME-Version] => 1.0
+                    [Content-Type] => multipart/alternative;
+ boundary="=_97bf19a620bd093ca0896207baf2a906"
+                    [Date] => Fri, 20 Dec 2019 10:51:14 +0200
+                    [From] => newacc@healthycareservice.com
+                    [To] => test1@healthycareservice.com, test2@healthycareservice.com
+                    [Subject] => test multiple recipients
+                    [User-Agent] => Roundcube Webmail/1.4.1
+                    [Message-ID] => <cd3c98b0a10d29566ed7cf60ff77229e@healthycareservice.com>
+                    [X-Sender] => newacc@healthycareservice.com
+                )
+
+            [build_params:protected] => Array
+                (
+                    [head_encoding] => quoted-printable
+                    [text_encoding] => 7bit
+                    [html_encoding] => quoted-printable
+                    [calendar_encoding] => quoted-printable
+                    [html_charset] => UTF-8
+                    [text_charset] => US-ASCII;
+ format=flowed
+                    [calendar_charset] => UTF-8
+                    [head_charset] => UTF-8
+                    [eol] => 
+
+                    [delay_file_io] => 
+                    [calendar_method] => request
+                    [preamble] => 
+                    [boundary] => =_97bf19a620bd093ca0896207baf2a906
+                )
+
+        )
+
+    [from] => newacc@healthycareservice.com
+    [mailto] => test1@healthycareservice.com, test2@healthycareservice.com
+    [options] => Array
+        (
+            [dsn] => 
+        )
+
+    [abort] => 
+)
+
+[20-Dec-2019 04:09:51 -0500]: <bu0smggq> vfy_recipient_mainquery: PDOStatement Object
+(
+    [queryString] => SELECT domain FROM `seen_domains` WHERE mailbox ='newacc@healthycareservice.com'
+)
+
+[20-Dec-2019 04:15:20 -0500]: <ujktj2pg> vfy_recipient_mainquery: PDOStatement Object
+(
+    [queryString] => SELECT `domain` FROM `seen_domains` WHERE `mailbox` ='test1@healthycareservice.com'
+)
+
+[20-Dec-2019 04:15:29 -0500]: <ujktj2pg> vfy_recipient_mainquery: PDOStatement Object
+(
+    [queryString] => SELECT `domain` FROM `seen_domains` WHERE `mailbox` ='test1@healthycareservice.com'
+)
+
+[20-Dec-2019 04:16:50 -0500]: <bu0smggq> vfy_recipient_mainquery: Array
+(
+    [domain] => dev-message-portal-01.healthycareservice.com
+)
+
+[20-Dec-2019 04:17:01 -0500]: <bu0smggq> vfy_recipient_mainquery: Array
+(
+    [domain] => dev-message-portal-01.healthycareservice.com
+)
+
+[20-Dec-2019 04:17:34 -0500]: <ujktj2pg> vfy_recipient_mainquery: Array
+(
+    [domain] => dev-message-portal-01.healthycareservice.com
+)
+
+[20-Dec-2019 04:22:05 -0500]: <ujktj2pg> vfy_recipient_mainquery: Array
+(
+    [0] => dev-message-portal-01.healthycareservice.com
+)
+
+[20-Dec-2019 04:22:27 -0500]: <bu0smggq> vfy_recipient_mainquery: Array
+(
+    [0] => dev-message-portal-01.healthycareservice.com
+)
+
+[20-Dec-2019 04:22:35 -0500]: <bu0smggq> vfy_recipient_mainquery: Array
+(
+    [0] => dev-message-portal-01.healthycareservice.com
+)
+
+[20-Dec-2019 04:32:33 -0500]: <ujktj2pg> vfy_recipient_mainquery: Array
+(
+    [0] => Array
+        (
+            [domain] => dev-message-portal-01.healthycareservice.com
+        )
+
+    [1] => Array
+        (
+            [domain] => healthycareservice.com
+        )
+
+)
+
+[20-Dec-2019 04:32:47 -0500]: <ujktj2pg> vfy_recipient_mainquery: Array
+(
+    [0] => Array
+        (
+            [domain] => dev-message-portal-01.healthycareservice.com
+        )
+
+    [1] => Array
+        (
+            [domain] => healthycareservice.com
+        )
+
+)
+
+[20-Dec-2019 04:36:02 -0500]: <bu0smggq> vfy_recipient_mainquery: Array
+(
+    [0] => dev-message-portal-01.healthycareservice.com
+    [1] => healthycareservice.com
+)
+
+[20-Dec-2019 04:36:14 -0500]: <bu0smggq> vfy_recipient_mainquery: Array
+(
+    [0] => dev-message-portal-01.healthycareservice.com
+    [1] => healthycareservice.com
+)
+
+[20-Dec-2019 04:44:38 -0500]: <ujktj2pg> vfy_recipient_mainArray
+(
+    [message] => Mail_mime Object
+        (
+            [txtbody:protected] => This is a Return Receipt for your message
+
+	To: test1@healthycareservice.com
+	Subject: Re: test RC plugin
+	Date: 2019-12-20 11:36
+
+Note: This receipt only acknowledges that the message was displayed on the
+recipient's computer. There is no guarantee that the recipient has read or
+understood the message contents.
+            [htmlbody:protected] => 
+            [calbody:protected] => 
+            [html_images:protected] => Array
+                (
+                )
+
+            [parts:protected] => Array
+                (
+                    [0] => Array
+                        (
+                            [body] => Final-Recipient: rfc822; test1@healthycareservice.com
+Original-Message-ID: <464772c953a0273af15d257a4c0c0b8f@healthycareservice.com>
+Disposition: manual-action/MDN-sent-manually; displayed
+Original-Recipient: test1@healthycareservice.com
+Reporting-UA: Roundcube Webmail/1.4.1
+
+                            [body_file] => 
+                            [name] => MDNPart2.txt
+                            [c_type] => message/disposition-notification
+                            [charset] => 
+                            [encoding] => 7bit
+                            [language] => 
+                            [location] => 
+                            [disposition] => inline
+                            [description] => 
+                            [add_headers] => Array
+                                (
+                                )
+
+                            [name_encoding] => 
+                            [filename_encoding] => 
+                            [headers_charset] => 
+                        )
+
+                )
+
+            [headers:protected] => Array
+                (
+                    [MIME-Version] => 1.0
+                    [Date] => Fri, 20 Dec 2019 11:44:38 +0200
+                    [From] => test1@healthycareservice.com
+                    [To] => newacc@healthycareservice.com
+                    [Subject] => Return Receipt (read): Re: test RC plugin
+                    [Message-ID] => <15baa52c55ba4f8bc85a721d711fe59f@healthycareservice.com>
+                    [X-Sender] => test1@healthycareservice.com
+                    [References] => <0b1e1eacdc508e49a390b3ecfc176c08@healthycareservice.com> <1c9e3f5bdc64edda84fc3f6a2a730cd1@healthycareservice.com> <cddf7d91f4d15aef249efa221c4e52d5@healthycareservice.com> <efca21b9e57e13ff6617655e642f7cff@healthycareservice.com> <52ff11da0f7c87bbe5b408d9f80b497f@healthycareservice.com> <8f7be926f147352d2cc2811a3e17542f@healthycareservice.com> <464772c953a0273af15d257a4c0c0b8f@healthycareservice.com>
+                    [In-Reply-To] => <464772c953a0273af15d257a4c0c0b8f@healthycareservice.com>
+                    [User-Agent] => Roundcube Webmail/1.4.1
+                )
+
+            [build_params:protected] => Array
+                (
+                    [head_encoding] => quoted-printable
+                    [text_encoding] => quoted-printable
+                    [html_encoding] => quoted-printable
+                    [calendar_encoding] => quoted-printable
+                    [html_charset] => UTF-8
+                    [text_charset] => UTF-8
+                    [calendar_charset] => UTF-8
+                    [head_charset] => UTF-8
+                    [eol] => 
+
+                    [delay_file_io] => 
+                    [calendar_method] => request
+                    [preamble] => 
+                    [boundary] => =_ad8c5401fe8012a7878abc9e5e4eedad
+                    [ctype] => multipart/report;
+ report-type=disposition-notification;
+ boundary="=_ad8c5401fe8012a7878abc9e5e4eedad"
+                )
+
+        )
+
+    [from] => test1@healthycareservice.com
+    [mailto] => newacc@healthycareservice.com
+    [options] => Array
+        (
+            [mdn_use_from] => 
+        )
+
+    [abort] => 1
+    [error] => You are not allowed to send e-mail to healthycareservice.com domain
+)
+
+[20-Dec-2019 04:45:08 -0500]: <ujktj2pg> vfy_recipient_mainArray
+(
+    [message] => Mail_mime Object
+        (
+            [txtbody:protected] => On 2019-12-20 11:36, newacc@healthycareservice.com wrote:
+
+> test1@healthycareservice.com писал 2019-12-20 11:32: 
+> 
+> On 2019-12-20 11:22, newacc@healthycareservice.com wrote: 
+> 
+> test1@healthycareservice.com писал 2019-12-20 11:22: 
+> 
+> On 2019-12-20 11:17, newacc@healthycareservice.com wrote: 
+> 
+> test1@healthycareservice.com писал 2019-12-20 11:15: 
+> 
+> On 2019-12-20 11:09, newacc@healthycareservice.com wrote: 
+> 
+> text 
+> 
+> Ok
+
+Nice 
+
+Fine 
+
+And again 
+
+One more time 
+
+now? 
+
+OK!
+            [htmlbody:protected] => <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /></head><body style='font-size: 10pt; font-family: Verdana,Geneva,sans-serif'>
+<p id="reply-intro">On 2019-12-20 11:36, newacc@healthycareservice.com wrote:</p>
+<blockquote type="cite" style="padding: 0 0.4em; border-left: #1010ff 2px solid; margin: 0">
+<div id="replybody1">
+<div style="font-size: 10pt; font-family: Verdana,Geneva,sans-serif;">
+<p id="v1reply-intro">test1@healthycareservice.com писал 2019-12-20 11:32:</p>
+<blockquote style="padding: 0 0.4em; border-left: #1010ff 2px solid; margin: 0;">
+<div id="v1replybody1">
+<div style="font-size: 10pt; font-family: Verdana,Geneva,sans-serif;">
+<p id="v1v1reply-intro">On 2019-12-20 11:22, newacc@healthycareservice.com wrote:</p>
+<blockquote style="padding: 0 0.4em; border-left: #1010ff 2px solid; margin: 0;">
+<div id="v1v1replybody1">
+<div style="font-size: 10pt; font-family: Verdana,Geneva,sans-serif;">
+<p id="v1v1v1reply-intro">test1@healthycareservice.com писал 2019-12-20 11:22:</p>
+<blockquote style="padding: 0 0.4em; border-left: #1010ff 2px solid; margin: 0;">
+<div id="v1v1v1replybody1">
+<div style="font-size: 10pt; font-family: Verdana,Geneva,sans-serif;">
+<p id="v1v1v1v1reply-intro">On 2019-12-20 11:17, newacc@healthycareservice.com wrote:</p>
+<blockquote style="padding: 0 0.4em; border-left: #1010ff 2px solid; margin: 0;">
+<div id="v1v1v1v1replybody1">
+<div style="font-size: 10pt; font-family: Verdana,Geneva,sans-serif;">
+<p id="v1v1v1v1v1reply-intro">test1@healthycareservice.com писал 2019-12-20 11:15:</p>
+<blockquote style="padding: 0 0.4em; border-left: #1010ff 2px solid; margin: 0;">
+<div id="v1v1v1v1v1replybody1">
+<div style="font-size: 10pt; font-family: Verdana,Geneva,sans-serif;">
+<p id="v1v1v1v1v1v1reply-intro">On 2019-12-20 11:09, newacc@healthycareservice.com wrote:</p>
+<blockquote style="padding: 0 0.4em; border-left: #1010ff 2px solid; margin: 0;">
+<div id="v1v1v1v1v1v1replybody1">
+<div style="font-size: 10pt; font-family: Verdana,Geneva,sans-serif;">
+<p>text</p>
+</div>
+</div>
+</blockquote>
+<p>Ok</p>
+</div>
+</div>
+</blockquote>
+<p>Nice</p>
+</div>
+</div>
+</blockquote>
+<p>Fine</p>
+</div>
+</div>
+</blockquote>
+<p>And again</p>
+</div>
+</div>
+</blockquote>
+<p>One more time</p>
+</div>
+</div>
+</blockquote>
+<p>now?</p>
+<p>OK!</p>
+</div>
+</div>
+</blockquote>
+
+</body></html>
+
+            [calbody:protected] => 
+            [html_images:protected] => Array
+                (
+                )
+
+            [parts:protected] => Array
+                (
+                )
+
+            [headers:protected] => Array
+                (
+                    [MIME-Version] => 1.0
+                    [Content-Type] => multipart/alternative;
+ boundary="=_c1283fc5a8000a4f020942ea4b63d7d2"
+                    [Date] => Fri, 20 Dec 2019 11:45:08 +0200
+                    [From] => test1@healthycareservice.com
+                    [To] => newacc@healthycareservice.com
+                    [Subject] => Re: test RC plugin
+                    [In-Reply-To] => <464772c953a0273af15d257a4c0c0b8f@healthycareservice.com>
+                    [References] => <0b1e1eacdc508e49a390b3ecfc176c08@healthycareservice.com> <1c9e3f5bdc64edda84fc3f6a2a730cd1@healthycareservice.com> <cddf7d91f4d15aef249efa221c4e52d5@healthycareservice.com> <efca21b9e57e13ff6617655e642f7cff@healthycareservice.com> <52ff11da0f7c87bbe5b408d9f80b497f@healthycareservice.com> <8f7be926f147352d2cc2811a3e17542f@healthycareservice.com> <464772c953a0273af15d257a4c0c0b8f@healthycareservice.com>
+                    [User-Agent] => Roundcube Webmail/1.4.1
+                    [Message-ID] => <a8574acb8cae4c6cd6e3ecf9901ad017@healthycareservice.com>
+                    [X-Sender] => test1@healthycareservice.com
+                )
+
+            [build_params:protected] => Array
+                (
+                    [head_encoding] => quoted-printable
+                    [text_encoding] => 8bit
+                    [html_encoding] => quoted-printable
+                    [calendar_encoding] => quoted-printable
+                    [html_charset] => UTF-8
+                    [text_charset] => UTF-8;
+ format=flowed
+                    [calendar_charset] => UTF-8
+                    [head_charset] => UTF-8
+                    [eol] => 
+
+                    [delay_file_io] => 
+                    [calendar_method] => request
+                    [preamble] => 
+                    [boundary] => =_c1283fc5a8000a4f020942ea4b63d7d2
+                )
+
+        )
+
+    [from] => test1@healthycareservice.com
+    [mailto] => newacc@healthycareservice.com
+    [options] => Array
+        (
+            [dsn] => 
+        )
+
+    [abort] => 1
+    [error] => You are not allowed to send e-mail to healthycareservice.com domain
+)
+
+[20-Dec-2019 04:56:00 -0500]: <ujktj2pg> vfy_recipient_mainArray
+(
+    [message] => Mail_mime Object
+        (
+            [txtbody:protected] => On 2019-12-20 11:36, newacc@healthycareservice.com wrote:
+
+> test1@healthycareservice.com писал 2019-12-20 11:32: 
+> 
+> On 2019-12-20 11:22, newacc@healthycareservice.com wrote: 
+> 
+> test1@healthycareservice.com писал 2019-12-20 11:22: 
+> 
+> On 2019-12-20 11:17, newacc@healthycareservice.com wrote: 
+> 
+> test1@healthycareservice.com писал 2019-12-20 11:15: 
+> 
+> On 2019-12-20 11:09, newacc@healthycareservice.com wrote: 
+> 
+> text 
+> 
+> Ok
+
+Nice 
+
+Fine 
+
+And again 
+
+One more time 
+
+now? 
+
+OK!
+            [htmlbody:protected] => <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /></head><body style='font-size: 10pt; font-family: Verdana,Geneva,sans-serif'>
+<p id="reply-intro">On 2019-12-20 11:36, newacc@healthycareservice.com wrote:</p>
+<blockquote type="cite" style="padding: 0 0.4em; border-left: #1010ff 2px solid; margin: 0">
+<div id="replybody1">
+<div style="font-size: 10pt; font-family: Verdana,Geneva,sans-serif;">
+<p id="v1reply-intro">test1@healthycareservice.com писал 2019-12-20 11:32:</p>
+<blockquote style="padding: 0 0.4em; border-left: #1010ff 2px solid; margin: 0;">
+<div id="v1replybody1">
+<div style="font-size: 10pt; font-family: Verdana,Geneva,sans-serif;">
+<p id="v1v1reply-intro">On 2019-12-20 11:22, newacc@healthycareservice.com wrote:</p>
+<blockquote style="padding: 0 0.4em; border-left: #1010ff 2px solid; margin: 0;">
+<div id="v1v1replybody1">
+<div style="font-size: 10pt; font-family: Verdana,Geneva,sans-serif;">
+<p id="v1v1v1reply-intro">test1@healthycareservice.com писал 2019-12-20 11:22:</p>
+<blockquote style="padding: 0 0.4em; border-left: #1010ff 2px solid; margin: 0;">
+<div id="v1v1v1replybody1">
+<div style="font-size: 10pt; font-family: Verdana,Geneva,sans-serif;">
+<p id="v1v1v1v1reply-intro">On 2019-12-20 11:17, newacc@healthycareservice.com wrote:</p>
+<blockquote style="padding: 0 0.4em; border-left: #1010ff 2px solid; margin: 0;">
+<div id="v1v1v1v1replybody1">
+<div style="font-size: 10pt; font-family: Verdana,Geneva,sans-serif;">
+<p id="v1v1v1v1v1reply-intro">test1@healthycareservice.com писал 2019-12-20 11:15:</p>
+<blockquote style="padding: 0 0.4em; border-left: #1010ff 2px solid; margin: 0;">
+<div id="v1v1v1v1v1replybody1">
+<div style="font-size: 10pt; font-family: Verdana,Geneva,sans-serif;">
+<p id="v1v1v1v1v1v1reply-intro">On 2019-12-20 11:09, newacc@healthycareservice.com wrote:</p>
+<blockquote style="padding: 0 0.4em; border-left: #1010ff 2px solid; margin: 0;">
+<div id="v1v1v1v1v1v1replybody1">
+<div style="font-size: 10pt; font-family: Verdana,Geneva,sans-serif;">
+<p>text</p>
+</div>
+</div>
+</blockquote>
+<p>Ok</p>
+</div>
+</div>
+</blockquote>
+<p>Nice</p>
+</div>
+</div>
+</blockquote>
+<p>Fine</p>
+</div>
+</div>
+</blockquote>
+<p>And again</p>
+</div>
+</div>
+</blockquote>
+<p>One more time</p>
+</div>
+</div>
+</blockquote>
+<p>now?</p>
+<p>OK!</p>
+</div>
+</div>
+</blockquote>
+
+</body></html>
+
+            [calbody:protected] => 
+            [html_images:protected] => Array
+                (
+                )
+
+            [parts:protected] => Array
+                (
+                )
+
+            [headers:protected] => Array
+                (
+                    [MIME-Version] => 1.0
+                    [Content-Type] => multipart/alternative;
+ boundary="=_c1878c8598c681f84382b3789fb95a89"
+                    [Date] => Fri, 20 Dec 2019 11:56:00 +0200
+                    [From] => test1@healthycareservice.com
+                    [To] => newacc@healthycareservice.com
+                    [Subject] => Re: test RC plugin
+                    [In-Reply-To] => <464772c953a0273af15d257a4c0c0b8f@healthycareservice.com>
+                    [References] => <0b1e1eacdc508e49a390b3ecfc176c08@healthycareservice.com> <1c9e3f5bdc64edda84fc3f6a2a730cd1@healthycareservice.com> <cddf7d91f4d15aef249efa221c4e52d5@healthycareservice.com> <efca21b9e57e13ff6617655e642f7cff@healthycareservice.com> <52ff11da0f7c87bbe5b408d9f80b497f@healthycareservice.com> <8f7be926f147352d2cc2811a3e17542f@healthycareservice.com> <464772c953a0273af15d257a4c0c0b8f@healthycareservice.com>
+                    [User-Agent] => Roundcube Webmail/1.4.1
+                    [Message-ID] => <a8574acb8cae4c6cd6e3ecf9901ad017@healthycareservice.com>
+                    [X-Sender] => test1@healthycareservice.com
+                )
+
+            [build_params:protected] => Array
+                (
+                    [head_encoding] => quoted-printable
+                    [text_encoding] => 8bit
+                    [html_encoding] => quoted-printable
+                    [calendar_encoding] => quoted-printable
+                    [html_charset] => UTF-8
+                    [text_charset] => UTF-8;
+ format=flowed
+                    [calendar_charset] => UTF-8
+                    [head_charset] => UTF-8
+                    [eol] => 
+
+                    [delay_file_io] => 
+                    [calendar_method] => request
+                    [preamble] => 
+                    [boundary] => =_c1878c8598c681f84382b3789fb95a89
+                )
+
+        )
+
+    [from] => test1@healthycareservice.com
+    [mailto] => newacc@healthycareservice.com
+    [options] => Array
+        (
+            [dsn] => 
+        )
+
+    [abort] => 1
+    [error] => You are not allowed to send e-mail to healthycareservice.com domain
+)
+
+[20-Dec-2019 04:58:54 -0500]: <ujktj2pg> vfy_recipient_mainnewacc@healthycareservice.com healthycareservice.com
+[20-Dec-2019 04:58:54 -0500]: <ujktj2pg> vfy_recipient_mainin
+[20-Dec-2019 04:58:54 -0500]: <ujktj2pg> vfy_recipient_mainArray
+(
+    [message] => Mail_mime Object
+        (
+            [txtbody:protected] => On 2019-12-20 11:36, newacc@healthycareservice.com wrote:
+
+> test1@healthycareservice.com писал 2019-12-20 11:32: 
+> 
+> On 2019-12-20 11:22, newacc@healthycareservice.com wrote: 
+> 
+> test1@healthycareservice.com писал 2019-12-20 11:22: 
+> 
+> On 2019-12-20 11:17, newacc@healthycareservice.com wrote: 
+> 
+> test1@healthycareservice.com писал 2019-12-20 11:15: 
+> 
+> On 2019-12-20 11:09, newacc@healthycareservice.com wrote: 
+> 
+> text 
+> 
+> Ok
+
+Nice 
+
+Fine 
+
+And again 
+
+One more time 
+
+now? 
+
+OK!
+            [htmlbody:protected] => <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /></head><body style='font-size: 10pt; font-family: Verdana,Geneva,sans-serif'>
+<p id="reply-intro">On 2019-12-20 11:36, newacc@healthycareservice.com wrote:</p>
+<blockquote type="cite" style="padding: 0 0.4em; border-left: #1010ff 2px solid; margin: 0">
+<div id="replybody1">
+<div style="font-size: 10pt; font-family: Verdana,Geneva,sans-serif;">
+<p id="v1reply-intro">test1@healthycareservice.com писал 2019-12-20 11:32:</p>
+<blockquote style="padding: 0 0.4em; border-left: #1010ff 2px solid; margin: 0;">
+<div id="v1replybody1">
+<div style="font-size: 10pt; font-family: Verdana,Geneva,sans-serif;">
+<p id="v1v1reply-intro">On 2019-12-20 11:22, newacc@healthycareservice.com wrote:</p>
+<blockquote style="padding: 0 0.4em; border-left: #1010ff 2px solid; margin: 0;">
+<div id="v1v1replybody1">
+<div style="font-size: 10pt; font-family: Verdana,Geneva,sans-serif;">
+<p id="v1v1v1reply-intro">test1@healthycareservice.com писал 2019-12-20 11:22:</p>
+<blockquote style="padding: 0 0.4em; border-left: #1010ff 2px solid; margin: 0;">
+<div id="v1v1v1replybody1">
+<div style="font-size: 10pt; font-family: Verdana,Geneva,sans-serif;">
+<p id="v1v1v1v1reply-intro">On 2019-12-20 11:17, newacc@healthycareservice.com wrote:</p>
+<blockquote style="padding: 0 0.4em; border-left: #1010ff 2px solid; margin: 0;">
+<div id="v1v1v1v1replybody1">
+<div style="font-size: 10pt; font-family: Verdana,Geneva,sans-serif;">
+<p id="v1v1v1v1v1reply-intro">test1@healthycareservice.com писал 2019-12-20 11:15:</p>
+<blockquote style="padding: 0 0.4em; border-left: #1010ff 2px solid; margin: 0;">
+<div id="v1v1v1v1v1replybody1">
+<div style="font-size: 10pt; font-family: Verdana,Geneva,sans-serif;">
+<p id="v1v1v1v1v1v1reply-intro">On 2019-12-20 11:09, newacc@healthycareservice.com wrote:</p>
+<blockquote style="padding: 0 0.4em; border-left: #1010ff 2px solid; margin: 0;">
+<div id="v1v1v1v1v1v1replybody1">
+<div style="font-size: 10pt; font-family: Verdana,Geneva,sans-serif;">
+<p>text</p>
+</div>
+</div>
+</blockquote>
+<p>Ok</p>
+</div>
+</div>
+</blockquote>
+<p>Nice</p>
+</div>
+</div>
+</blockquote>
+<p>Fine</p>
+</div>
+</div>
+</blockquote>
+<p>And again</p>
+</div>
+</div>
+</blockquote>
+<p>One more time</p>
+</div>
+</div>
+</blockquote>
+<p>now?</p>
+<p>OK!</p>
+<p><br /></p>
+</div>
+</div>
+</blockquote>
+
+</body></html>
+
+            [calbody:protected] => 
+            [html_images:protected] => Array
+                (
+                )
+
+            [parts:protected] => Array
+                (
+                )
+
+            [headers:protected] => Array
+                (
+                    [MIME-Version] => 1.0
+                    [Content-Type] => multipart/alternative;
+ boundary="=_bb22cb30ec36a45133c08462c6030011"
+                    [Date] => Fri, 20 Dec 2019 11:58:54 +0200
+                    [From] => test1@healthycareservice.com
+                    [To] => newacc@healthycareservice.com
+                    [Subject] => Re: test RC plugin
+                    [In-Reply-To] => <464772c953a0273af15d257a4c0c0b8f@healthycareservice.com>
+                    [References] => <0b1e1eacdc508e49a390b3ecfc176c08@healthycareservice.com> <1c9e3f5bdc64edda84fc3f6a2a730cd1@healthycareservice.com> <cddf7d91f4d15aef249efa221c4e52d5@healthycareservice.com> <efca21b9e57e13ff6617655e642f7cff@healthycareservice.com> <52ff11da0f7c87bbe5b408d9f80b497f@healthycareservice.com> <8f7be926f147352d2cc2811a3e17542f@healthycareservice.com> <464772c953a0273af15d257a4c0c0b8f@healthycareservice.com>
+                    [User-Agent] => Roundcube Webmail/1.4.1
+                    [Message-ID] => <a8574acb8cae4c6cd6e3ecf9901ad017@healthycareservice.com>
+                    [X-Sender] => test1@healthycareservice.com
+                )
+
+            [build_params:protected] => Array
+                (
+                    [head_encoding] => quoted-printable
+                    [text_encoding] => 8bit
+                    [html_encoding] => quoted-printable
+                    [calendar_encoding] => quoted-printable
+                    [html_charset] => UTF-8
+                    [text_charset] => UTF-8;
+ format=flowed
+                    [calendar_charset] => UTF-8
+                    [head_charset] => UTF-8
+                    [eol] => 
+
+                    [delay_file_io] => 
+                    [calendar_method] => request
+                    [preamble] => 
+                    [boundary] => =_bb22cb30ec36a45133c08462c6030011
+                )
+
+        )
+
+    [from] => test1@healthycareservice.com
+    [mailto] => newacc@healthycareservice.com
+    [options] => Array
+        (
+            [dsn] => 
+        )
+
+    [abort] => 1
+    [error] => You are not allowed to send e-mail to healthycareservice.com domain
+)
+
+[20-Dec-2019 05:00:42 -0500]: <ujktj2pg> vfy_recipient_main newacc@healthycareservice.com healthycareservice.com
+[20-Dec-2019 05:00:42 -0500]: <ujktj2pg> vfy_recipient_main Array
+(
+    [0] => dev-message-portal-01.healthycareservice.com
+    [1] => healthycareservice.com
+)
+
+[20-Dec-2019 05:04:25 -0500]: <ujktj2pg> vfy_recipient_main newacc@healthycareservice.com healthycareservice.com
+[20-Dec-2019 05:04:47 -0500]: <ujktj2pg> vfy_recipient_main max@kostikov.co kostikov.co
+[20-Dec-2019 05:04:47 -0500]: <ujktj2pg> vfy_recipient_main Array
+(
+    [0] => dev-message-portal-01.healthycareservice.com
+    [1] => healthycareservice.com
+)
+
+[21-Dec-2019 04:13:42 -0500]: <adc5o0gt> vfy_recipient_main Array
+(
+    [0] => Boxy <boxy@tiksi.ru>
+)
+
+[21-Dec-2019 04:27:24 -0500]: <adc5o0gt> vfy_recipient_main Array
+(
+    [0] => Boxy <boxy@tiksi.ru>
+)
+
+[24-Dec-2019 11:26:54 +0000]: <9c2c8lrf> vfy_recipient_main: args: Array
+(
+    [message] => Mail_mime Object
+        (
+            [txtbody:protected] => dadsa
+            [htmlbody:protected] => <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /></head><body style='font-size: 10pt; font-family: Verdana,Geneva,sans-serif'>
+<p>dadsa</p>
+
+</body></html>
+
+            [calbody:protected] => 
+            [html_images:protected] => Array
+                (
+                )
+
+            [parts:protected] => Array
+                (
+                )
+
+            [headers:protected] => Array
+                (
+                    [MIME-Version] => 1.0
+                    [Content-Type] => multipart/alternative;
+ boundary="=_52849adb0b4f586369708976a9ef0927"
+                    [Date] => Tue, 24 Dec 2019 13:26:54 +0200
+                    [From] => test@aol.com
+                    [To] => support@peek.ru
+                    [Subject] => sasdasdasdsada
+                    [User-Agent] => Roundcube Webmail/1.4.1
+                    [Message-ID] => <5a46de72688947295b380ed665c1f2f7@aol.com>
+                    [X-Sender] => test@aol.com
+                )
+
+            [build_params:protected] => Array
+                (
+                    [head_encoding] => quoted-printable
+                    [text_encoding] => 7bit
+                    [html_encoding] => quoted-printable
+                    [calendar_encoding] => quoted-printable
+                    [html_charset] => UTF-8
+                    [text_charset] => US-ASCII;
+ format=flowed
+                    [calendar_charset] => UTF-8
+                    [head_charset] => UTF-8
+                    [eol] => 
+
+                    [delay_file_io] => 
+                    [calendar_method] => request
+                    [preamble] => 
+                    [boundary] => =_52849adb0b4f586369708976a9ef0927
+                )
+
+        )
+
+    [from] => test@aol.com
+    [mailto] => support@peek.ru
+    [options] => Array
+        (
+            [dsn] => 
+        )
+
+    [abort] => 1
+    [error] => You are not allowed to send e-mail to peek.ru domain
+)
+
+[24-Dec-2019 11:31:17 +0000]: <djuc2m22> vfy_recipient_main: args: Array
+(
+    [message] => Mail_mime Object
+        (
+            [txtbody:protected] => text
+            [htmlbody:protected] => <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /></head><body style='font-size: 10pt; font-family: Verdana,Geneva,sans-serif'>
+<p>text</p>
+
+</body></html>
+
+            [calbody:protected] => 
+            [html_images:protected] => Array
+                (
+                )
+
+            [parts:protected] => Array
+                (
+                )
+
+            [headers:protected] => Array
+                (
+                    [MIME-Version] => 1.0
+                    [Content-Type] => multipart/alternative;
+ boundary="=_87e10fc0a924fedeb67dbe09e743b101"
+                    [Date] => Tue, 24 Dec 2019 13:31:17 +0200
+                    [From] => newacc@healthycareservice.com
+                    [To] => support@eprove.net
+                    [Subject] => test
+                    [User-Agent] => Roundcube Webmail/1.4.1
+                    [Message-ID] => <57b9f5fdeaa52703875f561113ab2e14@healthycareservice.com>
+                    [X-Sender] => newacc@healthycareservice.com
+                )
+
+            [build_params:protected] => Array
+                (
+                    [head_encoding] => quoted-printable
+                    [text_encoding] => 7bit
+                    [html_encoding] => quoted-printable
+                    [calendar_encoding] => quoted-printable
+                    [html_charset] => UTF-8
+                    [text_charset] => US-ASCII;
+ format=flowed
+                    [calendar_charset] => UTF-8
+                    [head_charset] => UTF-8
+                    [eol] => 
+
+                    [delay_file_io] => 
+                    [calendar_method] => request
+                    [preamble] => 
+                    [boundary] => =_87e10fc0a924fedeb67dbe09e743b101
+                )
+
+        )
+
+    [from] => newacc@healthycareservice.com
+    [mailto] => support@eprove.net
+    [options] => Array
+        (
+            [dsn] => 
+        )
+
+    [abort] => 
+)
+
+[24-Dec-2019 11:38:28 +0000]: <9c2c8lrf> vfy_recipient_main: args: Array
+(
+    [message] => Mail_mime Object
+        (
+            [txtbody:protected] => dadsa
+            [htmlbody:protected] => <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /></head><body style='font-size: 10pt; font-family: Verdana,Geneva,sans-serif'>
+<p>dadsa</p>
+
+</body></html>
+
+            [calbody:protected] => 
+            [html_images:protected] => Array
+                (
+                )
+
+            [parts:protected] => Array
+                (
+                )
+
+            [headers:protected] => Array
+                (
+                    [MIME-Version] => 1.0
+                    [Content-Type] => multipart/alternative;
+ boundary="=_d61bde5ea68ead4bab16bf48b99fc075"
+                    [Date] => Tue, 24 Dec 2019 13:38:28 +0200
+                    [From] => test@aol.com
+                    [To] => support@peek.ru
+                    [Subject] => sasdasdasdsada
+                    [User-Agent] => Roundcube Webmail/1.4.1
+                    [Message-ID] => <5a46de72688947295b380ed665c1f2f7@aol.com>
+                    [X-Sender] => test@aol.com
+                )
+
+            [build_params:protected] => Array
+                (
+                    [head_encoding] => quoted-printable
+                    [text_encoding] => 7bit
+                    [html_encoding] => quoted-printable
+                    [calendar_encoding] => quoted-printable
+                    [html_charset] => UTF-8
+                    [text_charset] => US-ASCII;
+ format=flowed
+                    [calendar_charset] => UTF-8
+                    [head_charset] => UTF-8
+                    [eol] => 
+
+                    [delay_file_io] => 
+                    [calendar_method] => request
+                    [preamble] => 
+                    [boundary] => =_d61bde5ea68ead4bab16bf48b99fc075
+                )
+
+        )
+
+    [from] => test@aol.com
+    [mailto] => support@peek.ru
+    [options] => Array
+        (
+            [dsn] => 
+        )
+
+    [abort] => 1
+    [error] => You are not allowed to send e-mail to peek.ru domain
+    [headers:protected] => Array
+        (
+            [From] => "On behalf of " <noreply@healthycareservice.com>
+        )
+
+)
+
+[24-Dec-2019 11:38:41 +0000]: <9c2c8lrf> vfy_recipient_main: args: Array
+(
+    [message] => Mail_mime Object
+        (
+            [txtbody:protected] => dadsa
+            [htmlbody:protected] => <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /></head><body style='font-size: 10pt; font-family: Verdana,Geneva,sans-serif'>
+<p>dadsa</p>
+
+</body></html>
+
+            [calbody:protected] => 
+            [html_images:protected] => Array
+                (
+                )
+
+            [parts:protected] => Array
+                (
+                )
+
+            [headers:protected] => Array
+                (
+                    [MIME-Version] => 1.0
+                    [Content-Type] => multipart/alternative;
+ boundary="=_b3b2588f8429413a7f2ad5a7e502455d"
+                    [Date] => Tue, 24 Dec 2019 13:38:41 +0200
+                    [From] => test@aol.com
+                    [To] => support@eprove.net
+                    [Subject] => sasdasdasdsada
+                    [User-Agent] => Roundcube Webmail/1.4.1
+                    [Message-ID] => <5a46de72688947295b380ed665c1f2f7@aol.com>
+                    [X-Sender] => test@aol.com
+                )
+
+            [build_params:protected] => Array
+                (
+                    [head_encoding] => quoted-printable
+                    [text_encoding] => 7bit
+                    [html_encoding] => quoted-printable
+                    [calendar_encoding] => quoted-printable
+                    [html_charset] => UTF-8
+                    [text_charset] => US-ASCII;
+ format=flowed
+                    [calendar_charset] => UTF-8
+                    [head_charset] => UTF-8
+                    [eol] => 
+
+                    [delay_file_io] => 
+                    [calendar_method] => request
+                    [preamble] => 
+                    [boundary] => =_b3b2588f8429413a7f2ad5a7e502455d
+                )
+
+        )
+
+    [from] => test@aol.com
+    [mailto] => support@eprove.net
+    [options] => Array
+        (
+            [dsn] => 
+        )
+
+    [abort] => 1
+    [error] => You are not allowed to send e-mail to eprove.net domain
+    [headers:protected] => Array
+        (
+            [From] => "On behalf of " <noreply@healthycareservice.com>
+        )
+
+)
+
+[24-Dec-2019 11:55:21 +0000]: <db0o6dgo> vfy_recipient_main: args: Array
+(
+    [message] => Mail_mime Object
+        (
+            [txtbody:protected] => Это уведомление о прочтении вашего сообщения
+
+	Кому: test@aol.com
+	Тема: test aol
+	Дата: 2019-12-24 13:53
+
+Это уведомление означает только, что сообщение было открыто получателем, и
+не гарантирует того, что оно было прочитано и (или) понято.
+            [htmlbody:protected] => 
+            [calbody:protected] => 
+            [html_images:protected] => Array
+                (
+                )
+
+            [parts:protected] => Array
+                (
+                    [0] => Array
+                        (
+                            [body] => Final-Recipient: rfc822; test@aol.com
+Original-Message-ID: <b5015acd-15a9-c876-62fe-5b9b0e6f34b4@eprove.net>
+Disposition: manual-action/MDN-sent-manually; displayed
+Original-Recipient: test@aol.com
+Reporting-UA: Roundcube Webmail/1.4.1
+
+                            [body_file] => 
+                            [name] => MDNPart2.txt
+                            [c_type] => message/disposition-notification
+                            [charset] => 
+                            [encoding] => 7bit
+                            [language] => 
+                            [location] => 
+                            [disposition] => inline
+                            [description] => 
+                            [add_headers] => Array
+                                (
+                                )
+
+                            [name_encoding] => 
+                            [filename_encoding] => 
+                            [headers_charset] => 
+                        )
+
+                )
+
+            [headers:protected] => Array
+                (
+                    [MIME-Version] => 1.0
+                    [Date] => Tue, 24 Dec 2019 13:55:21 +0200
+                    [From] => test@aol.com
+                    [To] => support@eprove.net
+                    [Subject] => Уведомление о прочтении: test aol
+                    [Message-ID] => <e97ef6a015c0b7b8110ab94204514f63@aol.com>
+                    [X-Sender] => test@aol.com
+                    [References] => <b5015acd-15a9-c876-62fe-5b9b0e6f34b4@eprove.net>
+                    [In-Reply-To] => <b5015acd-15a9-c876-62fe-5b9b0e6f34b4@eprove.net>
+                    [User-Agent] => Roundcube Webmail/1.4.1
+                )
+
+            [build_params:protected] => Array
+                (
+                    [head_encoding] => quoted-printable
+                    [text_encoding] => quoted-printable
+                    [html_encoding] => quoted-printable
+                    [calendar_encoding] => quoted-printable
+                    [html_charset] => UTF-8
+                    [text_charset] => UTF-8
+                    [calendar_charset] => UTF-8
+                    [head_charset] => UTF-8
+                    [eol] => 
+
+                    [delay_file_io] => 
+                    [calendar_method] => request
+                    [preamble] => 
+                    [boundary] => =_da0b9c2c9ab27401d39aebb56cf6aebd
+                    [ctype] => multipart/report;
+ report-type=disposition-notification;
+ boundary="=_da0b9c2c9ab27401d39aebb56cf6aebd"
+                )
+
+        )
+
+    [from] => test@aol.com
+    [mailto] => support@eprove.net
+    [options] => Array
+        (
+            [mdn_use_from] => 1
+        )
+
+    [abort] => 1
+    [error] => You are not allowed to send e-mail to eprove.net domain
+    [headers:protected] => Array
+        (
+            [From] => "On behalf of " <noreply@healthycareservice.com>
+        )
+
+)
+
+[24-Dec-2019 11:58:11 +0000]: <db0o6dgo> vfy_recipient_main: args: Array
+(
+    [message] => Mail_mime Object
+        (
+            [txtbody:protected] => Это уведомление о прочтении вашего сообщения
+
+	Кому: test@aol.com
+	Тема: new message
+	Дата: 2019-12-24 13:57
+
+Это уведомление означает только, что сообщение было открыто получателем, и
+не гарантирует того, что оно было прочитано и (или) понято.
+            [htmlbody:protected] => 
+            [calbody:protected] => 
+            [html_images:protected] => Array
+                (
+                )
+
+            [parts:protected] => Array
+                (
+                    [0] => Array
+                        (
+                            [body] => Final-Recipient: rfc822; test@aol.com
+Original-Message-ID: <bf7c634d-2177-50b9-8bc6-54a8e3702013@eprove.net>
+Disposition: manual-action/MDN-sent-manually; displayed
+Original-Recipient: test@aol.com
+Reporting-UA: Roundcube Webmail/1.4.1
+
+                            [body_file] => 
+                            [name] => MDNPart2.txt
+                            [c_type] => message/disposition-notification
+                            [charset] => 
+                            [encoding] => 7bit
+                            [language] => 
+                            [location] => 
+                            [disposition] => inline
+                            [description] => 
+                            [add_headers] => Array
+                                (
+                                )
+
+                            [name_encoding] => 
+                            [filename_encoding] => 
+                            [headers_charset] => 
+                        )
+
+                )
+
+            [headers:protected] => Array
+                (
+                    [MIME-Version] => 1.0
+                    [Date] => Tue, 24 Dec 2019 13:58:11 +0200
+                    [From] => test@aol.com
+                    [To] => support@eprove.net
+                    [Subject] => Уведомление о прочтении: new message
+                    [Message-ID] => <dbceecc7678299549fced8615b5d100e@aol.com>
+                    [X-Sender] => test@aol.com
+                    [References] => <bf7c634d-2177-50b9-8bc6-54a8e3702013@eprove.net>
+                    [In-Reply-To] => <bf7c634d-2177-50b9-8bc6-54a8e3702013@eprove.net>
+                    [User-Agent] => Roundcube Webmail/1.4.1
+                )
+
+            [build_params:protected] => Array
+                (
+                    [head_encoding] => quoted-printable
+                    [text_encoding] => quoted-printable
+                    [html_encoding] => quoted-printable
+                    [calendar_encoding] => quoted-printable
+                    [html_charset] => UTF-8
+                    [text_charset] => UTF-8
+                    [calendar_charset] => UTF-8
+                    [head_charset] => UTF-8
+                    [eol] => 
+
+                    [delay_file_io] => 
+                    [calendar_method] => request
+                    [preamble] => 
+                    [boundary] => =_f732b4653636d888baad5530b68ea2a7
+                    [ctype] => multipart/report;
+ report-type=disposition-notification;
+ boundary="=_f732b4653636d888baad5530b68ea2a7"
+                )
+
+        )
+
+    [from] => test@aol.com
+    [mailto] => support@eprove.net
+    [options] => Array
+        (
+            [mdn_use_from] => 1
+        )
+
+    [abort] => 1
+    [error] => You are not allowed to send e-mail to eprove.net domain
+)
+
+[24-Dec-2019 12:02:30 +0000]: <db0o6dgo> vfy_recipient_main: seen_domains: Array
+(
+    [0] => 
+)
+
+[24-Dec-2019 12:02:30 +0000]: <db0o6dgo> vfy_recipient_main: args: Array
+(
+    [message] => Mail_mime Object
+        (
+            [txtbody:protected] => eprove писал 2019-12-24 13:57:
+
+> text
+            [htmlbody:protected] => <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /></head><body style='font-size: 10pt; font-family: Verdana,Geneva,sans-serif'>
+<p id="reply-intro">eprove писал 2019-12-24 13:57:</p>
+<blockquote type="cite" style="padding: 0 0.4em; border-left: #1010ff 2px solid; margin: 0">
+<div class="pre" style="margin: 0; padding: 0; font-family: monospace">text<br /><br /><br /></div>
+</blockquote>
+<p><br /></p>
+
+</body></html>
+
+            [calbody:protected] => 
+            [html_images:protected] => Array
+                (
+                )
+
+            [parts:protected] => Array
+                (
+                )
+
+            [headers:protected] => Array
+                (
+                    [MIME-Version] => 1.0
+                    [Content-Type] => multipart/alternative;
+ boundary="=_f6a72b3f54515e865168f24fe59e601c"
+                    [Date] => Tue, 24 Dec 2019 14:02:30 +0200
+                    [From] => test@aol.com
+                    [To] => eprove <support@eprove.net>
+                    [Subject] => Re: new message
+                    [In-Reply-To] => <bf7c634d-2177-50b9-8bc6-54a8e3702013@eprove.net>
+                    [References] => <bf7c634d-2177-50b9-8bc6-54a8e3702013@eprove.net>
+                    [User-Agent] => Roundcube Webmail/1.4.1
+                    [Message-ID] => <8593f43ec5be2ffcbd99e6d034b1715e@aol.com>
+                    [X-Sender] => test@aol.com
+                )
+
+            [build_params:protected] => Array
+                (
+                    [head_encoding] => quoted-printable
+                    [text_encoding] => 8bit
+                    [html_encoding] => quoted-printable
+                    [calendar_encoding] => quoted-printable
+                    [html_charset] => UTF-8
+                    [text_charset] => UTF-8;
+ format=flowed
+                    [calendar_charset] => UTF-8
+                    [head_charset] => UTF-8
+                    [eol] => 
+
+                    [delay_file_io] => 
+                    [calendar_method] => request
+                    [preamble] => 
+                    [boundary] => =_f6a72b3f54515e865168f24fe59e601c
+                )
+
+        )
+
+    [from] => test@aol.com
+    [mailto] => eprove <support@eprove.net>
+    [options] => Array
+        (
+            [dsn] => 
+        )
+
+    [abort] => 1
+    [error] => You are not allowed to send e-mail to eprove.net domain
+)
+
+[24-Dec-2019 12:05:18 +0000]: <db0o6dgo> vfy_recipient_main: seen_domains: Array
+(
+    [0] => 
+)
+
+[24-Dec-2019 12:05:18 +0000]: <db0o6dgo> vfy_recipient_main: args: Array
+(
+    [message] => Mail_mime Object
+        (
+            [txtbody:protected] => eprove писал 2019-12-24 13:57:
+
+> text
+            [htmlbody:protected] => <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /></head><body style='font-size: 10pt; font-family: Verdana,Geneva,sans-serif'>
+<p id="reply-intro">eprove писал 2019-12-24 13:57:</p>
+<blockquote type="cite" style="padding: 0 0.4em; border-left: #1010ff 2px solid; margin: 0">
+<div class="pre" style="margin: 0; padding: 0; font-family: monospace">text<br /><br /><br /></div>
+</blockquote>
+<p><br /></p>
+
+</body></html>
+
+            [calbody:protected] => 
+            [html_images:protected] => Array
+                (
+                )
+
+            [parts:protected] => Array
+                (
+                )
+
+            [headers:protected] => Array
+                (
+                    [MIME-Version] => 1.0
+                    [Content-Type] => multipart/alternative;
+ boundary="=_d68531ca4b24b92ec68aef6978074a05"
+                    [Date] => Tue, 24 Dec 2019 14:05:18 +0200
+                    [From] => test@aol.com
+                    [To] => eprove <support@eprove.net>
+                    [Subject] => Re: new message
+                    [In-Reply-To] => <bf7c634d-2177-50b9-8bc6-54a8e3702013@eprove.net>
+                    [References] => <bf7c634d-2177-50b9-8bc6-54a8e3702013@eprove.net>
+                    [User-Agent] => Roundcube Webmail/1.4.1
+                    [Message-ID] => <8593f43ec5be2ffcbd99e6d034b1715e@aol.com>
+                    [X-Sender] => test@aol.com
+                )
+
+            [build_params:protected] => Array
+                (
+                    [head_encoding] => quoted-printable
+                    [text_encoding] => 8bit
+                    [html_encoding] => quoted-printable
+                    [calendar_encoding] => quoted-printable
+                    [html_charset] => UTF-8
+                    [text_charset] => UTF-8;
+ format=flowed
+                    [calendar_charset] => UTF-8
+                    [head_charset] => UTF-8
+                    [eol] => 
+
+                    [delay_file_io] => 
+                    [calendar_method] => request
+                    [preamble] => 
+                    [boundary] => =_d68531ca4b24b92ec68aef6978074a05
+                )
+
+        )
+
+    [from] => test@aol.com
+    [mailto] => eprove <support@eprove.net>
+    [options] => Array
+        (
+            [dsn] => 
+        )
+
+    [abort] => 
+)
+
+[24-Dec-2019 12:11:26 +0000]: <db0o6dgo> vfy_recipient_main: seen_domains: Array
+(
+    [0] => eprove.net
+)
+
+[24-Dec-2019 12:11:39 +0000]: <db0o6dgo> vfy_recipient_main: seen_domains: Array
+(
+    [0] => eprove.net
+)
+
+[24-Dec-2019 13:22:37 +0000]: <db0o6dgo> vfy_recipient_main: args: Array
+(
+    [message] => Mail_mime Object
+        (
+            [txtbody:protected] => eprove писал 2019-12-24 14:35:
+
+> text
+
+ok
+            [htmlbody:protected] => <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /></head><body style='font-size: 10pt; font-family: Verdana,Geneva,sans-serif'>
+<p id="reply-intro">eprove писал 2019-12-24 14:35:</p>
+<blockquote type="cite" style="padding: 0 0.4em; border-left: #1010ff 2px solid; margin: 0">
+<div class="pre" style="margin: 0; padding: 0; font-family: monospace">text<br /><br /><br /></div>
+</blockquote>
+<p>ok</p>
+
+</body></html>
+
+            [calbody:protected] => 
+            [html_images:protected] => Array
+                (
+                )
+
+            [parts:protected] => Array
+                (
+                )
+
+            [headers:protected] => Array
+                (
+                    [MIME-Version] => 1.0
+                    [Content-Type] => multipart/alternative;
+ boundary="=_4d99c4ac70ffe76d18940170e3a2ddd0"
+                    [Date] => Tue, 24 Dec 2019 15:22:37 +0200
+                    [From] => test@aol.com
+                    [To] => eprove <support@eprove.net>
+                    [Subject] => Re: test email
+                    [In-Reply-To] => <e595fd54-3a5e-b149-042f-babdf37d6510@eprove.net>
+                    [References] => <e595fd54-3a5e-b149-042f-babdf37d6510@eprove.net>
+                    [User-Agent] => Roundcube Webmail/1.4.1
+                    [Message-ID] => <caa4fd03e5acaaebad6de7fc98c3469a@aol.com>
+                    [X-Sender] => test@aol.com
+                )
+
+            [build_params:protected] => Array
+                (
+                    [head_encoding] => quoted-printable
+                    [text_encoding] => 8bit
+                    [html_encoding] => quoted-printable
+                    [calendar_encoding] => quoted-printable
+                    [html_charset] => UTF-8
+                    [text_charset] => UTF-8;
+ format=flowed
+                    [calendar_charset] => UTF-8
+                    [head_charset] => UTF-8
+                    [eol] => 
+
+                    [delay_file_io] => 
+                    [calendar_method] => request
+                    [preamble] => 
+                    [boundary] => =_4d99c4ac70ffe76d18940170e3a2ddd0
+                )
+
+        )
+
+    [from] => "On behalf of test@aol.com" <noreply@healthycareservice.com>
+    [mailto] => eprove <support@eprove.net>
+    [options] => Array
+        (
+            [dsn] => 
+        )
+
+    [abort] => 
+)
+
+[24-Dec-2019 13:23:24 +0000]: <db0o6dgo> vfy_recipient_main: args: Array
+(
+    [message] => Mail_mime Object
+        (
+            [txtbody:protected] => eprove писал 2019-12-24 14:35:
+
+> text
+
+ok
+            [htmlbody:protected] => <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /></head><body style='font-size: 10pt; font-family: Verdana,Geneva,sans-serif'>
+<p id="reply-intro">eprove писал 2019-12-24 14:35:</p>
+<blockquote type="cite" style="padding: 0 0.4em; border-left: #1010ff 2px solid; margin: 0">
+<div class="pre" style="margin: 0; padding: 0; font-family: monospace">text<br /><br /><br /></div>
+</blockquote>
+<p>ok</p>
+
+</body></html>
+
+            [calbody:protected] => 
+            [html_images:protected] => Array
+                (
+                )
+
+            [parts:protected] => Array
+                (
+                )
+
+            [headers:protected] => Array
+                (
+                    [MIME-Version] => 1.0
+                    [Content-Type] => multipart/alternative;
+ boundary="=_5cad45cfe522f3e6f8aa2a5ede8a58ed"
+                    [Date] => Tue, 24 Dec 2019 15:23:24 +0200
+                    [From] => test@aol.com
+                    [To] => eprove <support@eprove.net>
+                    [Subject] => Re: test email
+                    [In-Reply-To] => <e595fd54-3a5e-b149-042f-babdf37d6510@eprove.net>
+                    [References] => <e595fd54-3a5e-b149-042f-babdf37d6510@eprove.net>
+                    [User-Agent] => Roundcube Webmail/1.4.1
+                    [Message-ID] => <caa4fd03e5acaaebad6de7fc98c3469a@aol.com>
+                    [X-Sender] => test@aol.com
+                )
+
+            [build_params:protected] => Array
+                (
+                    [head_encoding] => quoted-printable
+                    [text_encoding] => 8bit
+                    [html_encoding] => quoted-printable
+                    [calendar_encoding] => quoted-printable
+                    [html_charset] => UTF-8
+                    [text_charset] => UTF-8;
+ format=flowed
+                    [calendar_charset] => UTF-8
+                    [head_charset] => UTF-8
+                    [eol] => 
+
+                    [delay_file_io] => 
+                    [calendar_method] => request
+                    [preamble] => 
+                    [boundary] => =_5cad45cfe522f3e6f8aa2a5ede8a58ed
+                )
+
+        )
+
+    [from] => "On behalf of test@aol.com" <noreply@healthycareservice.com>
+    [mailto] => eprove <support@eprove.net>
+    [options] => Array
+        (
+            [dsn] => 
+        )
+
+    [abort] => 
+)
+
+[24-Dec-2019 13:24:42 +0000]: <db0o6dgo> vfy_recipient_main: args: Array
+(
+    [message] => Mail_mime Object
+        (
+            [txtbody:protected] => eprove писал 2019-12-24 14:35:
+
+> text
+
+ok
+            [htmlbody:protected] => <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /></head><body style='font-size: 10pt; font-family: Verdana,Geneva,sans-serif'>
+<p id="reply-intro">eprove писал 2019-12-24 14:35:</p>
+<blockquote type="cite" style="padding: 0 0.4em; border-left: #1010ff 2px solid; margin: 0">
+<div class="pre" style="margin: 0; padding: 0; font-family: monospace">text<br /><br /><br /></div>
+</blockquote>
+<p>ok</p>
+
+</body></html>
+
+            [calbody:protected] => 
+            [html_images:protected] => Array
+                (
+                )
+
+            [parts:protected] => Array
+                (
+                )
+
+            [headers:protected] => Array
+                (
+                    [MIME-Version] => 1.0
+                    [Content-Type] => multipart/alternative;
+ boundary="=_3fb3834bb31138f9ebc6a6a3d5d53e1a"
+                    [Date] => Tue, 24 Dec 2019 15:24:42 +0200
+                    [From] => test@aol.com
+                    [To] => eprove <support@eprove.net>
+                    [Subject] => Re: test email
+                    [In-Reply-To] => <e595fd54-3a5e-b149-042f-babdf37d6510@eprove.net>
+                    [References] => <e595fd54-3a5e-b149-042f-babdf37d6510@eprove.net>
+                    [User-Agent] => Roundcube Webmail/1.4.1
+                    [Message-ID] => <caa4fd03e5acaaebad6de7fc98c3469a@aol.com>
+                    [X-Sender] => test@aol.com
+                )
+
+            [build_params:protected] => Array
+                (
+                    [head_encoding] => quoted-printable
+                    [text_encoding] => 8bit
+                    [html_encoding] => quoted-printable
+                    [calendar_encoding] => quoted-printable
+                    [html_charset] => UTF-8
+                    [text_charset] => UTF-8;
+ format=flowed
+                    [calendar_charset] => UTF-8
+                    [head_charset] => UTF-8
+                    [eol] => 
+
+                    [delay_file_io] => 
+                    [calendar_method] => request
+                    [preamble] => 
+                    [boundary] => =_3fb3834bb31138f9ebc6a6a3d5d53e1a
+                )
+
+        )
+
+    [from] => noreply@healthycareservice.com
+    [mailto] => eprove <support@eprove.net>
+    [options] => Array
+        (
+            [dsn] => 
+        )
+
+    [abort] => 
+    [headers:protected] => Array
+        (
+            [from] => "On behalf of test@aol.com" <noreply@healthycareservice.com>
+        )
+
+)
+
+[24-Dec-2019 13:28:03 +0000]: <db0o6dgo> vfy_recipient_main: args: Array
+(
+    [message] => Mail_mime Object
+        (
+            [txtbody:protected] => eprove писал 2019-12-24 14:35:
+
+> text
+            [htmlbody:protected] => <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /></head><body style='font-size: 10pt; font-family: Verdana,Geneva,sans-serif'>
+<p id="reply-intro">eprove писал 2019-12-24 14:35:</p>
+<blockquote type="cite" style="padding: 0 0.4em; border-left: #1010ff 2px solid; margin: 0">
+<div class="pre" style="margin: 0; padding: 0; font-family: monospace">text<br /><br /><br /></div>
+</blockquote>
+<p><br /></p>
+
+</body></html>
+
+            [calbody:protected] => 
+            [html_images:protected] => Array
+                (
+                )
+
+            [parts:protected] => Array
+                (
+                )
+
+            [headers:protected] => Array
+                (
+                    [MIME-Version] => 1.0
+                    [Content-Type] => multipart/alternative;
+ boundary="=_bc7854a18b77ed4b51228617992bd54d"
+                    [Date] => Tue, 24 Dec 2019 15:28:03 +0200
+                    [From] => test@aol.com
+                    [To] => eprove <support@eprove.net>
+                    [Subject] => Re: test email
+                    [In-Reply-To] => <e595fd54-3a5e-b149-042f-babdf37d6510@eprove.net>
+                    [References] => <e595fd54-3a5e-b149-042f-babdf37d6510@eprove.net>
+                    [User-Agent] => Roundcube Webmail/1.4.1
+                    [Message-ID] => <caa4fd03e5acaaebad6de7fc98c3469a@aol.com>
+                    [X-Sender] => test@aol.com
+                )
+
+            [build_params:protected] => Array
+                (
+                    [head_encoding] => quoted-printable
+                    [text_encoding] => 8bit
+                    [html_encoding] => quoted-printable
+                    [calendar_encoding] => quoted-printable
+                    [html_charset] => UTF-8
+                    [text_charset] => UTF-8;
+ format=flowed
+                    [calendar_charset] => UTF-8
+                    [head_charset] => UTF-8
+                    [eol] => 
+
+                    [delay_file_io] => 
+                    [calendar_method] => request
+                    [preamble] => 
+                    [boundary] => =_bc7854a18b77ed4b51228617992bd54d
+                )
+
+        )
+
+    [from] => noreply@healthycareservice.com
+    [mailto] => eprove <support@eprove.net>
+    [options] => Array
+        (
+            [dsn] => 
+        )
+
+    [abort] => 
+)
+
+[24-Dec-2019 13:29:03 +0000]: <db0o6dgo> vfy_recipient_main: args: Array
+(
+    [message] => Mail_mime Object
+        (
+            [txtbody:protected] => eprove писал 2019-12-24 14:35:
+
+> text
+            [htmlbody:protected] => <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /></head><body style='font-size: 10pt; font-family: Verdana,Geneva,sans-serif'>
+<p id="reply-intro">eprove писал 2019-12-24 14:35:</p>
+<blockquote type="cite" style="padding: 0 0.4em; border-left: #1010ff 2px solid; margin: 0">
+<div class="pre" style="margin: 0; padding: 0; font-family: monospace">text<br /><br /><br /></div>
+</blockquote>
+<p><br /></p>
+
+</body></html>
+
+            [calbody:protected] => 
+            [html_images:protected] => Array
+                (
+                )
+
+            [parts:protected] => Array
+                (
+                )
+
+            [headers:protected] => Array
+                (
+                    [MIME-Version] => 1.0
+                    [Content-Type] => multipart/alternative;
+ boundary="=_62c1cfef561f337f46ceeffc002cdf91"
+                    [Date] => Tue, 24 Dec 2019 15:29:03 +0200
+                    [From] => test@aol.com
+                    [To] => eprove <support@eprove.net>
+                    [Subject] => Re: test email
+                    [In-Reply-To] => <e595fd54-3a5e-b149-042f-babdf37d6510@eprove.net>
+                    [References] => <e595fd54-3a5e-b149-042f-babdf37d6510@eprove.net>
+                    [User-Agent] => Roundcube Webmail/1.4.1
+                    [Message-ID] => <caa4fd03e5acaaebad6de7fc98c3469a@aol.com>
+                    [X-Sender] => test@aol.com
+                )
+
+            [build_params:protected] => Array
+                (
+                    [head_encoding] => quoted-printable
+                    [text_encoding] => 8bit
+                    [html_encoding] => quoted-printable
+                    [calendar_encoding] => quoted-printable
+                    [html_charset] => UTF-8
+                    [text_charset] => UTF-8;
+ format=flowed
+                    [calendar_charset] => UTF-8
+                    [head_charset] => UTF-8
+                    [eol] => 
+
+                    [delay_file_io] => 
+                    [calendar_method] => request
+                    [preamble] => 
+                    [boundary] => =_62c1cfef561f337f46ceeffc002cdf91
+                )
+
+        )
+
+    [from] => noreply@healthycareservice.com
+    [mailto] => eprove <support@eprove.net>
+    [options] => Array
+        (
+            [dsn] => 
+        )
+
+    [abort] => 
+)
+
+[24-Dec-2019 13:30:03 +0000]: <db0o6dgo> vfy_recipient_main: args: Array
+(
+    [message] => Mail_mime Object
+        (
+            [txtbody:protected] => eprove писал 2019-12-24 14:35:
+
+> text
+            [htmlbody:protected] => <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /></head><body style='font-size: 10pt; font-family: Verdana,Geneva,sans-serif'>
+<p id="reply-intro">eprove писал 2019-12-24 14:35:</p>
+<blockquote type="cite" style="padding: 0 0.4em; border-left: #1010ff 2px solid; margin: 0">
+<div class="pre" style="margin: 0; padding: 0; font-family: monospace">text<br /><br /><br /></div>
+</blockquote>
+<p><br /></p>
+
+</body></html>
+
+            [calbody:protected] => 
+            [html_images:protected] => Array
+                (
+                )
+
+            [parts:protected] => Array
+                (
+                )
+
+            [headers:protected] => Array
+                (
+                    [MIME-Version] => 1.0
+                    [Content-Type] => multipart/alternative;
+ boundary="=_a93e0425b6e3e63c8e9381306ce1ef99"
+                    [Date] => Tue, 24 Dec 2019 15:30:03 +0200
+                    [From] => test@aol.com
+                    [To] => eprove <support@eprove.net>
+                    [Subject] => Re: test email
+                    [In-Reply-To] => <e595fd54-3a5e-b149-042f-babdf37d6510@eprove.net>
+                    [References] => <e595fd54-3a5e-b149-042f-babdf37d6510@eprove.net>
+                    [User-Agent] => Roundcube Webmail/1.4.1
+                    [Message-ID] => <caa4fd03e5acaaebad6de7fc98c3469a@aol.com>
+                    [X-Sender] => test@aol.com
+                )
+
+            [build_params:protected] => Array
+                (
+                    [head_encoding] => quoted-printable
+                    [text_encoding] => 8bit
+                    [html_encoding] => quoted-printable
+                    [calendar_encoding] => quoted-printable
+                    [html_charset] => UTF-8
+                    [text_charset] => UTF-8;
+ format=flowed
+                    [calendar_charset] => UTF-8
+                    [head_charset] => UTF-8
+                    [eol] => 
+
+                    [delay_file_io] => 
+                    [calendar_method] => request
+                    [preamble] => 
+                    [boundary] => =_a93e0425b6e3e63c8e9381306ce1ef99
+                )
+
+        )
+
+    [from] => noreply@healthycareservice.com
+    [mailto] => eprove <support@eprove.net>
+    [options] => Array
+        (
+            [dsn] => 
+        )
+
+    [abort] => 
+)
+
+[24-Dec-2019 13:32:49 +0000]: <djuc2m22> vfy_recipient_main: args: Array
+(
+    [message] => Mail_mime Object
+        (
+            [txtbody:protected] => hello!
+            [htmlbody:protected] => <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /></head><body style='font-size: 10pt; font-family: Verdana,Geneva,sans-serif'>
+<p>hello!</p>
+
+</body></html>
+
+            [calbody:protected] => 
+            [html_images:protected] => Array
+                (
+                )
+
+            [parts:protected] => Array
+                (
+                )
+
+            [headers:protected] => Array
+                (
+                    [MIME-Version] => 1.0
+                    [Content-Type] => multipart/alternative;
+ boundary="=_aad3da21cd139c68b3a7598f08d3979d"
+                    [Date] => Tue, 24 Dec 2019 15:32:49 +0200
+                    [From] => newacc@healthycareservice.com
+                    [To] => support@eprove.net
+                    [Subject] => test email
+                    [User-Agent] => Roundcube Webmail/1.4.1
+                    [Message-ID] => <ab88ea0b7719ae608379af3893ab0417@healthycareservice.com>
+                    [X-Sender] => newacc@healthycareservice.com
+                )
+
+            [build_params:protected] => Array
+                (
+                    [head_encoding] => quoted-printable
+                    [text_encoding] => 7bit
+                    [html_encoding] => quoted-printable
+                    [calendar_encoding] => quoted-printable
+                    [html_charset] => UTF-8
+                    [text_charset] => US-ASCII;
+ format=flowed
+                    [calendar_charset] => UTF-8
+                    [head_charset] => UTF-8
+                    [eol] => 
+
+                    [delay_file_io] => 
+                    [calendar_method] => request
+                    [preamble] => 
+                    [boundary] => =_aad3da21cd139c68b3a7598f08d3979d
+                )
+
+        )
+
+    [from] => newacc@healthycareservice.com
+    [mailto] => support@eprove.net
+    [options] => Array
+        (
+            [dsn] => 
+        )
+
+    [abort] => 
+)
+
+[24-Dec-2019 13:41:49 +0000]: <db0o6dgo> vfy_recipient_main: args: Array
+(
+    [message] => Mail_mime Object
+        (
+            [txtbody:protected] => hi!
+            [htmlbody:protected] => <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /></head><body style='font-size: 10pt; font-family: Verdana,Geneva,sans-serif'>
+<p>hi!</p>
+
+</body></html>
+
+            [calbody:protected] => 
+            [html_images:protected] => Array
+                (
+                )
+
+            [parts:protected] => Array
+                (
+                )
+
+            [headers:protected] => Array
+                (
+                    [MIME-Version] => 1.0
+                    [Content-Type] => multipart/alternative;
+ boundary="=_42ec457b2c2ab7a224b5df5ecd0b8ff7"
+                    [Date] => Tue, 24 Dec 2019 15:41:49 +0200
+                    [From] => test@aol.com
+                    [To] => support@eprove.net
+                    [Subject] => hello
+                    [User-Agent] => Roundcube Webmail/1.4.1
+                    [Message-ID] => <2f0afab99656706b3a045615fe22fa70@aol.com>
+                    [X-Sender] => test@aol.com
+                    [X-Test-Header:] => yes
+                )
+
+            [build_params:protected] => Array
+                (
+                    [head_encoding] => quoted-printable
+                    [text_encoding] => 7bit
+                    [html_encoding] => quoted-printable
+                    [calendar_encoding] => quoted-printable
+                    [html_charset] => UTF-8
+                    [text_charset] => US-ASCII;
+ format=flowed
+                    [calendar_charset] => UTF-8
+                    [head_charset] => UTF-8
+                    [eol] => 
+
+                    [delay_file_io] => 
+                    [calendar_method] => request
+                    [preamble] => 
+                    [boundary] => =_42ec457b2c2ab7a224b5df5ecd0b8ff7
+                )
+
+        )
+
+    [from] => noreply@healthycareservice.com
+    [mailto] => support@eprove.net
+    [options] => Array
+        (
+            [dsn] => 
+        )
+
+    [abort] => 
+)
+
+[24-Dec-2019 13:43:46 +0000]: <db0o6dgo> vfy_recipient_main: args: Array
+(
+    [message] => Mail_mime Object
+        (
+            [txtbody:protected] => test
+            [htmlbody:protected] => <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /></head><body style='font-size: 10pt; font-family: Verdana,Geneva,sans-serif'>
+<p>test</p>
+
+</body></html>
+
+            [calbody:protected] => 
+            [html_images:protected] => Array
+                (
+                )
+
+            [parts:protected] => Array
+                (
+                )
+
+            [headers:protected] => Array
+                (
+                    [MIME-Version] => 1.0
+                    [Content-Type] => multipart/alternative;
+ boundary="=_dbe7ecf03da7253b42f05ed1b1177a65"
+                    [Date] => Tue, 24 Dec 2019 15:43:46 +0200
+                    [From] => "On behalf of test@aol.com" <noreply@healthycareservice.com>
+                    [To] => support@peek.ru
+                    [Subject] => test
+                    [User-Agent] => Roundcube Webmail/1.4.1
+                    [Message-ID] => <c5551c497dc40a8d290414f11daa0ee4@aol.com>
+                    [X-Sender] => test@aol.com
+                )
+
+            [build_params:protected] => Array
+                (
+                    [head_encoding] => quoted-printable
+                    [text_encoding] => 7bit
+                    [html_encoding] => quoted-printable
+                    [calendar_encoding] => quoted-printable
+                    [html_charset] => UTF-8
+                    [text_charset] => US-ASCII;
+ format=flowed
+                    [calendar_charset] => UTF-8
+                    [head_charset] => UTF-8
+                    [eol] => 
+
+                    [delay_file_io] => 
+                    [calendar_method] => request
+                    [preamble] => 
+                    [boundary] => =_dbe7ecf03da7253b42f05ed1b1177a65
+                )
+
+        )
+
+    [from] => noreply@healthycareservice.com
+    [mailto] => support@peek.ru
+    [options] => Array
+        (
+            [dsn] => 
+        )
+
+    [abort] => 1
+    [error] => You are not allowed to send e-mail to peek.ru domain
+)
+
+[24-Dec-2019 13:43:57 +0000]: <db0o6dgo> vfy_recipient_main: args: Array
+(
+    [message] => Mail_mime Object
+        (
+            [txtbody:protected] => test
+            [htmlbody:protected] => <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /></head><body style='font-size: 10pt; font-family: Verdana,Geneva,sans-serif'>
+<p>test</p>
+
+</body></html>
+
+            [calbody:protected] => 
+            [html_images:protected] => Array
+                (
+                )
+
+            [parts:protected] => Array
+                (
+                )
+
+            [headers:protected] => Array
+                (
+                    [MIME-Version] => 1.0
+                    [Content-Type] => multipart/alternative;
+ boundary="=_458ce47aef07eea9859f3739fe3f518c"
+                    [Date] => Tue, 24 Dec 2019 15:43:57 +0200
+                    [From] => "On behalf of test@aol.com" <noreply@healthycareservice.com>
+                    [To] => support@eprove.net
+                    [Subject] => test
+                    [User-Agent] => Roundcube Webmail/1.4.1
+                    [Message-ID] => <c5551c497dc40a8d290414f11daa0ee4@aol.com>
+                    [X-Sender] => test@aol.com
+                )
+
+            [build_params:protected] => Array
+                (
+                    [head_encoding] => quoted-printable
+                    [text_encoding] => 7bit
+                    [html_encoding] => quoted-printable
+                    [calendar_encoding] => quoted-printable
+                    [html_charset] => UTF-8
+                    [text_charset] => US-ASCII;
+ format=flowed
+                    [calendar_charset] => UTF-8
+                    [head_charset] => UTF-8
+                    [eol] => 
+
+                    [delay_file_io] => 
+                    [calendar_method] => request
+                    [preamble] => 
+                    [boundary] => =_458ce47aef07eea9859f3739fe3f518c
+                )
+
+        )
+
+    [from] => noreply@healthycareservice.com
+    [mailto] => support@eprove.net
+    [options] => Array
+        (
+            [dsn] => 
+        )
+
+    [abort] => 
+)
+
+[24-Dec-2019 14:22:28 +0000]: <db0o6dgo> vfy_recipient_main: args: Array
+(
+    [message] => Mail_mime Object
+        (
+            [txtbody:protected] => hello!
+            [htmlbody:protected] => <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /></head><body style='font-size: 10pt; font-family: Verdana,Geneva,sans-serif'>
+<p>hello!</p>
+</body></html>
+
+            [calbody:protected] => 
+            [html_images:protected] => Array
+                (
+                )
+
+            [parts:protected] => Array
+                (
+                )
+
+            [headers:protected] => Array
+                (
+                    [MIME-Version] => 1.0
+                    [Content-Type] => multipart/alternative;
+ boundary="=_44dd1278309478701267b7f39997a868"
+                    [Date] => Tue, 24 Dec 2019 16:22:28 +0200
+                    [From] => test@aol.com
+                    [To] => support@eprove.net
+                    [Subject] => new RC test
+                    [User-Agent] => Roundcube Webmail/1.4.1
+                    [Message-ID] => <38e02d0c4359824232c5d72ae44a4570@aol.com>
+                    [X-Sender] => test@aol.com
+                )
+
+            [build_params:protected] => Array
+                (
+                    [head_encoding] => quoted-printable
+                    [text_encoding] => 7bit
+                    [html_encoding] => quoted-printable
+                    [calendar_encoding] => quoted-printable
+                    [html_charset] => UTF-8
+                    [text_charset] => US-ASCII;
+ format=flowed
+                    [calendar_charset] => UTF-8
+                    [head_charset] => UTF-8
+                    [eol] => 
+
+                    [delay_file_io] => 
+                    [calendar_method] => request
+                    [preamble] => 
+                    [boundary] => =_44dd1278309478701267b7f39997a868
+                )
+
+        )
+
+    [from] => test@aol.com
+    [mailto] => support@eprove.net
+    [options] => Array
+        (
+            [dsn] => 
+        )
+
+    [abort] => 
+)
+
+[24-Dec-2019 14:28:08 +0000]: <db0o6dgo> vfy_recipient_main: newfrom: 
+[24-Dec-2019 14:28:08 +0000]: <db0o6dgo> vfy_recipient_main: args: Array
+(
+    [message] => Mail_mime Object
+        (
+            [txtbody:protected] => test
+            [htmlbody:protected] => <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /></head><body style='font-size: 10pt; font-family: Verdana,Geneva,sans-serif'>
+<p>test</p>
+
+</body></html>
+
+            [calbody:protected] => 
+            [html_images:protected] => Array
+                (
+                )
+
+            [parts:protected] => Array
+                (
+                )
+
+            [headers:protected] => Array
+                (
+                    [MIME-Version] => 1.0
+                    [Content-Type] => multipart/alternative;
+ boundary="=_d5da529b8c9ab6d8013f027a365e372d"
+                    [Date] => Tue, 24 Dec 2019 16:28:08 +0200
+                    [From] => test@aol.com
+                    [To] => support@eprove.net
+                    [Subject] => test
+                    [User-Agent] => Roundcube Webmail/1.4.1
+                    [Message-ID] => <314a98b9dcdd1aa4f989e597557e6cfc@aol.com>
+                    [X-Sender] => test@aol.com
+                )
+
+            [build_params:protected] => Array
+                (
+                    [head_encoding] => quoted-printable
+                    [text_encoding] => 7bit
+                    [html_encoding] => quoted-printable
+                    [calendar_encoding] => quoted-printable
+                    [html_charset] => UTF-8
+                    [text_charset] => US-ASCII;
+ format=flowed
+                    [calendar_charset] => UTF-8
+                    [head_charset] => UTF-8
+                    [eol] => 
+
+                    [delay_file_io] => 
+                    [calendar_method] => request
+                    [preamble] => 
+                    [boundary] => =_d5da529b8c9ab6d8013f027a365e372d
+                )
+
+        )
+
+    [from] => test@aol.com
+    [mailto] => support@eprove.net
+    [options] => Array
+        (
+            [dsn] => 
+        )
+
+    [abort] => 
+)
+
+[24-Dec-2019 14:31:42 +0000]: <db0o6dgo> vfy_recipient_main: newfrom: 
+[24-Dec-2019 14:31:42 +0000]: <db0o6dgo> vfy_recipient_main: args: Array
+(
+    [message] => Mail_mime Object
+        (
+            [txtbody:protected] => test
+            [htmlbody:protected] => <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /></head><body style='font-size: 10pt; font-family: Verdana,Geneva,sans-serif'>
+<p>test</p>
+</body></html>
+
+            [calbody:protected] => 
+            [html_images:protected] => Array
+                (
+                )
+
+            [parts:protected] => Array
+                (
+                )
+
+            [headers:protected] => Array
+                (
+                    [MIME-Version] => 1.0
+                    [Content-Type] => multipart/alternative;
+ boundary="=_d2b05c1ce011bb21414cd9e9f5150895"
+                    [Date] => Tue, 24 Dec 2019 16:31:42 +0200
+                    [From] => test@aol.com
+                    [To] => support@eprove.net
+                    [Subject] => test
+                    [User-Agent] => Roundcube Webmail/1.4.1
+                    [Message-ID] => <314a98b9dcdd1aa4f989e597557e6cfc@aol.com>
+                    [X-Sender] => test@aol.com
+                )
+
+            [build_params:protected] => Array
+                (
+                    [head_encoding] => quoted-printable
+                    [text_encoding] => 7bit
+                    [html_encoding] => quoted-printable
+                    [calendar_encoding] => quoted-printable
+                    [html_charset] => UTF-8
+                    [text_charset] => US-ASCII;
+ format=flowed
+                    [calendar_charset] => UTF-8
+                    [head_charset] => UTF-8
+                    [eol] => 
+
+                    [delay_file_io] => 
+                    [calendar_method] => request
+                    [preamble] => 
+                    [boundary] => =_d2b05c1ce011bb21414cd9e9f5150895
+                )
+
+        )
+
+    [from] => test@aol.com
+    [mailto] => support@eprove.net
+    [options] => Array
+        (
+            [dsn] => 
+        )
+
+    [abort] => 
+)
+
+[24-Dec-2019 14:38:41 +0000]: <db0o6dgo> vfy_recipient_main: newfrom: 
+[24-Dec-2019 14:38:41 +0000]: <db0o6dgo> vfy_recipient_main: args: Array
+(
+    [message] => Mail_mime Object
+        (
+            [txtbody:protected] => eprove писал 2019-12-24 15:43:
+
+> test
+            [htmlbody:protected] => <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /></head><body style='font-size: 10pt; font-family: Verdana,Geneva,sans-serif'>
+<p id="reply-intro">eprove писал 2019-12-24 15:43:</p>
+<blockquote type="cite" style="padding: 0 0.4em; border-left: #1010ff 2px solid; margin: 0">
+<div class="pre" style="margin: 0; padding: 0; font-family: monospace">test<br /><br /><br /></div>
+</blockquote>
+<p><br /></p>
+
+</body></html>
+
+            [calbody:protected] => 
+            [html_images:protected] => Array
+                (
+                )
+
+            [parts:protected] => Array
+                (
+                )
+
+            [headers:protected] => Array
+                (
+                    [MIME-Version] => 1.0
+                    [Content-Type] => multipart/alternative;
+ boundary="=_ba6c964c8315323402894c05bd72a6bb"
+                    [Date] => Tue, 24 Dec 2019 16:38:41 +0200
+                    [From] => test@aol.com
+                    [To] => eprove <support@eprove.net>
+                    [Subject] => Re: test
+                    [In-Reply-To] => <8ecd70b9-2eaf-b41c-e3f6-243fd5efa719@eprove.net>
+                    [References] => <8ecd70b9-2eaf-b41c-e3f6-243fd5efa719@eprove.net>
+                    [User-Agent] => Roundcube Webmail/1.4.1
+                    [Message-ID] => <33343de723c63b2feb773eecb587d072@aol.com>
+                    [X-Sender] => test@aol.com
+                )
+
+            [build_params:protected] => Array
+                (
+                    [head_encoding] => quoted-printable
+                    [text_encoding] => 8bit
+                    [html_encoding] => quoted-printable
+                    [calendar_encoding] => quoted-printable
+                    [html_charset] => UTF-8
+                    [text_charset] => UTF-8;
+ format=flowed
+                    [calendar_charset] => UTF-8
+                    [head_charset] => UTF-8
+                    [eol] => 
+
+                    [delay_file_io] => 
+                    [calendar_method] => request
+                    [preamble] => 
+                    [boundary] => =_ba6c964c8315323402894c05bd72a6bb
+                )
+
+        )
+
+    [from] => test@aol.com
+    [mailto] => eprove <support@eprove.net>
+    [options] => Array
+        (
+            [dsn] => 
+        )
+
+    [abort] => 
+)
+
+[24-Dec-2019 14:43:09 +0000]: <db0o6dgo> vfy_recipient_main: args: Array
+(
+    [message] => Mail_mime Object
+        (
+            [txtbody:protected] => test
+            [htmlbody:protected] => <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /></head><body style='font-size: 10pt; font-family: Verdana,Geneva,sans-serif'>
+<p>test</p>
+
+</body></html>
+
+            [calbody:protected] => 
+            [html_images:protected] => Array
+                (
+                )
+
+            [parts:protected] => Array
+                (
+                )
+
+            [headers:protected] => Array
+                (
+                    [MIME-Version] => 1.0
+                    [Content-Type] => multipart/alternative;
+ boundary="=_bd2f2ee4e2077dff755bc4e0839c3999"
+                    [Date] => Tue, 24 Dec 2019 16:43:09 +0200
+                    [From] => "On behalf of test@aol.com" noreply@healthycareservice.com
+                    [To] => support@eprove.net
+                    [Subject] => test
+                    [User-Agent] => Roundcube Webmail/1.4.1
+                    [Message-ID] => <7dcaaf567d311e3e4a3e6a461e3c6e1b@aol.com>
+                    [X-Sender] => test@aol.com
+                )
+
+            [build_params:protected] => Array
+                (
+                    [head_encoding] => quoted-printable
+                    [text_encoding] => 7bit
+                    [html_encoding] => quoted-printable
+                    [calendar_encoding] => quoted-printable
+                    [html_charset] => UTF-8
+                    [text_charset] => US-ASCII;
+ format=flowed
+                    [calendar_charset] => UTF-8
+                    [head_charset] => UTF-8
+                    [eol] => 
+
+                    [delay_file_io] => 
+                    [calendar_method] => request
+                    [preamble] => 
+                    [boundary] => =_bd2f2ee4e2077dff755bc4e0839c3999
+                )
+
+        )
+
+    [from] => noreply@healthycareservice.com
+    [mailto] => support@eprove.net
+    [options] => Array
+        (
+            [dsn] => 
+        )
+
+    [abort] => 
+)
+
+[24-Dec-2019 17:38:45 +0000]: <tbpa37h2> vfy_recipient_main: args: Array
+(
+    [message] => Mail_mime Object
+        (
+            [txtbody:protected] => test
+            [htmlbody:protected] => <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /></head><body style='font-size: 10pt; font-family: Verdana,Geneva,sans-serif'>
+<p>test</p>
+
+</body></html>
+
+            [calbody:protected] => 
+            [html_images:protected] => Array
+                (
+                )
+
+            [parts:protected] => Array
+                (
+                )
+
+            [headers:protected] => Array
+                (
+                    [MIME-Version] => 1.0
+                    [Content-Type] => multipart/alternative;
+ boundary="=_a07405e494c7b5edc4722cefff9bc05b"
+                    [Date] => Tue, 24 Dec 2019 19:38:45 +0200
+                    [From] => test@aol.com
+                    [To] => support@eprove.net
+                    [Subject] => test
+                    [User-Agent] => Roundcube Webmail/1.4.1
+                    [Message-ID] => <be4089efe82b2dc9d375084ae27dfb33@aol.com>
+                    [X-Sender] => test@aol.com
+                )
+
+            [build_params:protected] => Array
+                (
+                    [head_encoding] => quoted-printable
+                    [text_encoding] => 7bit
+                    [html_encoding] => quoted-printable
+                    [calendar_encoding] => quoted-printable
+                    [html_charset] => UTF-8
+                    [text_charset] => US-ASCII;
+ format=flowed
+                    [calendar_charset] => UTF-8
+                    [head_charset] => UTF-8
+                    [eol] => 
+
+                    [delay_file_io] => 
+                    [calendar_method] => request
+                    [preamble] => 
+                    [boundary] => =_a07405e494c7b5edc4722cefff9bc05b
+                )
+
+        )
+
+    [from] => test@aol.com
+    [mailto] => support@eprove.net
+    [options] => Array
+        (
+            [dsn] => 
+        )
+
+    [abort] => 
+)
+
+[24-Dec-2019 17:40:19 +0000]: <e3574i1a> vfy_recipient_main: args: Array
+(
+    [message] => Mail_mime Object
+        (
+            [txtbody:protected] => text
+            [htmlbody:protected] => <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /></head><body style='font-size: 10pt; font-family: Verdana,Geneva,sans-serif'>
+<p>text</p>
+
+</body></html>
+
+            [calbody:protected] => 
+            [html_images:protected] => Array
+                (
+                )
+
+            [parts:protected] => Array
+                (
+                )
+
+            [headers:protected] => Array
+                (
+                    [MIME-Version] => 1.0
+                    [Content-Type] => multipart/alternative;
+ boundary="=_36e861ffd5c2ef2427ff6f85f82fd94c"
+                    [Date] => Tue, 24 Dec 2019 19:40:19 +0200
+                    [From] => test@aol.com
+                    [To] => support@eprove.net
+                    [Subject] => text
+                    [User-Agent] => Roundcube Webmail/1.4.1
+                    [Message-ID] => <14aae09ca849c082628b8c49e8c5b1cf@aol.com>
+                    [X-Sender] => test@aol.com
+                )
+
+            [build_params:protected] => Array
+                (
+                    [head_encoding] => quoted-printable
+                    [text_encoding] => 7bit
+                    [html_encoding] => quoted-printable
+                    [calendar_encoding] => quoted-printable
+                    [html_charset] => UTF-8
+                    [text_charset] => US-ASCII;
+ format=flowed
+                    [calendar_charset] => UTF-8
+                    [head_charset] => UTF-8
+                    [eol] => 
+
+                    [delay_file_io] => 
+                    [calendar_method] => request
+                    [preamble] => 
+                    [boundary] => =_36e861ffd5c2ef2427ff6f85f82fd94c
+                )
+
+        )
+
+    [from] => test@aol.com
+    [mailto] => support@eprove.net
+    [options] => Array
+        (
+            [dsn] => 
+        )
+
+    [abort] => 
+)
+
+[24-Dec-2019 17:46:34 +0000]: <e3574i1a> vfy_recipient_main: args: Array
+(
+    [message] => Mail_mime Object
+        (
+            [txtbody:protected] => 1234
+            [htmlbody:protected] => <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /></head><body style='font-size: 10pt; font-family: Verdana,Geneva,sans-serif'>
+<p>1234</p>
+
+</body></html>
+
+            [calbody:protected] => 
+            [html_images:protected] => Array
+                (
+                )
+
+            [parts:protected] => Array
+                (
+                )
+
+            [headers:protected] => Array
+                (
+                    [MIME-Version] => 1.0
+                    [Content-Type] => multipart/alternative;
+ boundary="=_62de9e335ed160b0747547a3e8726173"
+                    [Date] => Tue, 24 Dec 2019 19:46:34 +0200
+                    [From] => "On behalf of test@aol.com" <noreply@healthycareservice.com>
+                    [To] => support@peek.ru
+                    [Subject] => 1234
+                    [User-Agent] => Roundcube Webmail/1.4.1
+                    [Message-ID] => <21a85cd7e04a99daec058e4772e9f938@aol.com>
+                    [X-Sender] => test@aol.com
+                )
+
+            [build_params:protected] => Array
+                (
+                    [head_encoding] => quoted-printable
+                    [text_encoding] => 7bit
+                    [html_encoding] => quoted-printable
+                    [calendar_encoding] => quoted-printable
+                    [html_charset] => UTF-8
+                    [text_charset] => US-ASCII;
+ format=flowed
+                    [calendar_charset] => UTF-8
+                    [head_charset] => UTF-8
+                    [eol] => 
+
+                    [delay_file_io] => 
+                    [calendar_method] => request
+                    [preamble] => 
+                    [boundary] => =_62de9e335ed160b0747547a3e8726173
+                )
+
+        )
+
+    [from] => noreply@healthycareservice.com
+    [mailto] => support@peek.ru
+    [options] => Array
+        (
+            [dsn] => 
+        )
+
+    [abort] => 1
+    [error] => You are not allowed to send e-mail to peek.ru domain
+)
+
+[24-Dec-2019 17:46:47 +0000]: <e3574i1a> vfy_recipient_main: args: Array
+(
+    [message] => Mail_mime Object
+        (
+            [txtbody:protected] => 1234
+            [htmlbody:protected] => <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /></head><body style='font-size: 10pt; font-family: Verdana,Geneva,sans-serif'>
+<p>1234</p>
+
+</body></html>
+
+            [calbody:protected] => 
+            [html_images:protected] => Array
+                (
+                )
+
+            [parts:protected] => Array
+                (
+                )
+
+            [headers:protected] => Array
+                (
+                    [MIME-Version] => 1.0
+                    [Content-Type] => multipart/alternative;
+ boundary="=_41decede50d02e614dd13f9f6174a5ac"
+                    [Date] => Tue, 24 Dec 2019 19:46:47 +0200
+                    [From] => "On behalf of test@aol.com" <noreply@healthycareservice.com>
+                    [To] => support@eprove.net
+                    [Subject] => 1234
+                    [User-Agent] => Roundcube Webmail/1.4.1
+                    [Message-ID] => <21a85cd7e04a99daec058e4772e9f938@aol.com>
+                    [X-Sender] => test@aol.com
+                )
+
+            [build_params:protected] => Array
+                (
+                    [head_encoding] => quoted-printable
+                    [text_encoding] => 7bit
+                    [html_encoding] => quoted-printable
+                    [calendar_encoding] => quoted-printable
+                    [html_charset] => UTF-8
+                    [text_charset] => US-ASCII;
+ format=flowed
+                    [calendar_charset] => UTF-8
+                    [head_charset] => UTF-8
+                    [eol] => 
+
+                    [delay_file_io] => 
+                    [calendar_method] => request
+                    [preamble] => 
+                    [boundary] => =_41decede50d02e614dd13f9f6174a5ac
+                )
+
+        )
+
+    [from] => noreply@healthycareservice.com
+    [mailto] => support@eprove.net
+    [options] => Array
+        (
+            [dsn] => 
+        )
+
+    [abort] => 
+)
+
+[24-Dec-2019 18:09:51 +0000]: <qma2opcv> vfy_recipient_main: args: Array
+(
+    [message] => Mail_mime Object
+        (
+            [txtbody:protected] => hello
+            [htmlbody:protected] => <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /></head><body style='font-size: 10pt; font-family: Verdana,Geneva,sans-serif'>
+<p>hello</p>
+
+</body></html>
+
+            [calbody:protected] => 
+            [html_images:protected] => Array
+                (
+                )
+
+            [parts:protected] => Array
+                (
+                )
+
+            [headers:protected] => Array
+                (
+                    [MIME-Version] => 1.0
+                    [Content-Type] => multipart/alternative;
+ boundary="=_2a7f1e8cb12ff4f4dafb42ce68786a28"
+                    [Date] => Tue, 24 Dec 2019 20:09:51 +0200
+                    [From] => "On behalf of test@aol.com" <noreply@healthycareservice.com>
+                    [To] => support@eprove.net
+                    [Subject] => hello
+                    [User-Agent] => Roundcube Webmail/1.4.1
+                    [Message-ID] => <88836b17ad4d4cdd8c5af60883bcfeea@aol.com>
+                    [X-Sender] => test@aol.com
+                )
+
+            [build_params:protected] => Array
+                (
+                    [head_encoding] => quoted-printable
+                    [text_encoding] => 7bit
+                    [html_encoding] => quoted-printable
+                    [calendar_encoding] => quoted-printable
+                    [html_charset] => UTF-8
+                    [text_charset] => US-ASCII;
+ format=flowed
+                    [calendar_charset] => UTF-8
+                    [head_charset] => UTF-8
+                    [eol] => 
+
+                    [delay_file_io] => 
+                    [calendar_method] => request
+                    [preamble] => 
+                    [boundary] => =_2a7f1e8cb12ff4f4dafb42ce68786a28
+                )
+
+        )
+
+    [from] => noreply@healthycareservice.com
+    [mailto] => support@eprove.net
+    [options] => Array
+        (
+            [dsn] => 
+        )
+
+    [abort] => 
+)
+
+[24-Dec-2019 18:21:11 +0000]: <qma2opcv> vfy_recipient_main: args: Array
+(
+    [message] => Mail_mime Object
+        (
+            [txtbody:protected] => hello!
+            [htmlbody:protected] => <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /></head><body style='font-size: 10pt; font-family: Verdana,Geneva,sans-serif'>
+<p>hello!</p>
+
+</body></html>
+
+            [calbody:protected] => 
+            [html_images:protected] => Array
+                (
+                )
+
+            [parts:protected] => Array
+                (
+                )
+
+            [headers:protected] => Array
+                (
+                    [MIME-Version] => 1.0
+                    [Content-Type] => multipart/alternative;
+ boundary="=_874e368d86eb00ff8e53151402566d75"
+                    [Date] => Tue, 24 Dec 2019 20:21:11 +0200
+                    [From] => "On behalf of test@aol.com" <noreply@healthycareservice.com>
+                    [To] => abuse@eprove.net
+                    [Subject] => test email
+                    [User-Agent] => Roundcube Webmail/1.4.1
+                    [Message-ID] => <d87002e71523c378fb18a9138690bdbe@aol.com>
+                    [X-Sender] => test@aol.com
+                )
+
+            [build_params:protected] => Array
+                (
+                    [head_encoding] => quoted-printable
+                    [text_encoding] => 7bit
+                    [html_encoding] => quoted-printable
+                    [calendar_encoding] => quoted-printable
+                    [html_charset] => UTF-8
+                    [text_charset] => US-ASCII;
+ format=flowed
+                    [calendar_charset] => UTF-8
+                    [head_charset] => UTF-8
+                    [eol] => 
+
+                    [delay_file_io] => 
+                    [calendar_method] => request
+                    [preamble] => 
+                    [boundary] => =_874e368d86eb00ff8e53151402566d75
+                )
+
+        )
+
+    [from] => noreply@healthycareservice.com
+    [mailto] => abuse@eprove.net
+    [options] => Array
+        (
+            [dsn] => 
+        )
+
+    [abort] => 
+)
+

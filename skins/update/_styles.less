@@ -1,0 +1,244 @@
+/* Here you can put your custom styles that will be appended to the output css file */
+@import "global";
+
+.skin,
+.browser {
+  display: none;
+}
+#rcmrowmailbox,
+#rcmrowaddressbook,
+#rcmrowfolders,
+#rcmrowserver,
+#settingstabfolders,
+#settingstabidentities {
+  display: none;
+}
+fieldset {
+  &.sig {
+    display: none;
+  }
+  &.spellcheck {
+    display: none;
+  }
+}
+
+a {
+  &.signature {
+    display: none !important;
+  }
+}
+
+#_from {
+  background: none;
+}
+
+.attach-note {
+  text-align: left;
+  margin-left: 5px;
+}
+
+// .gen-mt(20);
+// .gen-mt(@n, @i:0) when(@i =< @n) {
+//   .mt-@{i} {
+//     margin-top: (@i * 5px);
+//   }
+//   .gen-mt(@n, (@i + 1));
+// }
+
+.threads {
+  display: none;
+}
+
+.menu {
+  a.pdf:before {
+    content: "\f1c9";
+  }
+}
+.password-input{
+  display: flex;
+  align-items: center;
+}
+.toggle-password{
+  position: absolute;
+  right: 4px;
+  display:none;
+}
+span{
+  &.i-visible:before{
+    content: "\f06e";
+    font-family: "Icons";
+  }
+  &.i-invisible:before{
+    content: "\f070";
+    font-family: "Icons";
+  }
+}
+
+.password-note{
+  padding: 1rem;
+  background: #f1f3f4;
+}
+
+.login-remember-check{
+  z-index: auto;
+  opacity: unset;
+  margin-left: 1rem;
+  margin-top:0;
+  position: relative !important;
+  margin-right: .5rem;
+}
+
+a{
+  color:@color-main;
+}
+
+a.forgot-link{
+  text-decoration: underline;
+  color: #333 !important;
+  float: left !important;
+}
+
+#login-form .formtitle{
+  font-size: 1.4vh;
+  text-align: left;
+}
+.topnav-right {
+  float: right;
+  margin-right: 2vh;
+}
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+i{
+  &.eye:before{
+    content: "\f06e";
+    font-family: "Icons";
+  }
+  &.eye-visible:before{
+    content: "\f070";
+    font-family: "Icons";
+    color: orange;
+  }
+}
+.eye, .eye-visible{
+  background-color: transparent !important;
+  border-left: none;
+  padding: 0;
+  position: absolute;
+  top: 49%;
+  left: 90%;
+  z-index: 100;
+}
+#rcmloginpwd{
+  border-right: none;
+}
+#rcmloginsubmit{
+  background: #CCC !important;
+  border-color: #BBB !important;
+  color: #333 !important;
+  text-transform: unset !important;
+  font-size: 14px !important;
+  font-weight: 550 !important;
+  padding: 0.5vh !important; 
+  border-radius: unset !important;
+}
+
+.ui-dialog {
+  position: absolute !important;
+	top: 60px !important;
+  // left: 400px !important;
+  margin: auto !important;
+	// padding: .2em;
+  border:1px;    
+}
+.ui-dialog .ui-dialog-titlebar {
+    border:1px;
+    background: #6bb7db;
+    color: #FFF;
+    text-align: left;
+    span{
+      color: #FFF;
+    }
+    button{
+      display: none;
+    }
+    // display: none;
+}
+.ui-dialog .ui-dialog-content {
+	border: 0;
+	padding: 20px;
+  font-size:14px;
+  // color:#CAAD75;
+  background-color: #FDF8E4;
+  overflow: auto;
+  height: auto !important;
+}
+.ui-dialog .ui-dialog-buttonpane {
+  text-align: center !important;
+  display: flex;
+  justify-content: center;
+	border-width: 1px 0 0 0;
+	background-image: none;
+	// margin-top: .5em;
+  padding: .3em 1em .5em .4em;
+  height: 2.5em !important;
+}
+.ui-dialog .ui-dialog-buttonpane .ui-dialog-buttonset {
+  // float: right;
+  button{
+    background: #f8f9fa;
+    border: 1px solid #ccc;
+    color: #333;
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
+    height: 30px;
+  }
+}
+.ui-dialog .ui-dialog-buttonpane button {
+	// margin: .5em .4em .5em 0;
+	cursor: pointer;
+    
+}
+.ui-dialog .ui-resizable-se {
+	width: 12px;
+	height: 12px;
+	right: -5px;
+	bottom: -5px;
+	background-position: 16px 16px;
+    
+}
+.ui-draggable-handle {
+	-ms-touch-action: none;
+	touch-action: none;
+}
+#dialog_footer{
+  text-align: center;
+  padding: 10px;
+}
+@media screen and (max-width: 1250px) and (min-height: 900px) {
+  .eye, .eye-visible{
+    top: 50% !important;
+    left: 85% !important;
+  }
+}
+@media screen and (max-width: 1080px) and (max-height: 960px) {
+  .eye, .eye-visible{
+    top: 50% !important;
+    left: 85% !important;
+  }
+}
+
